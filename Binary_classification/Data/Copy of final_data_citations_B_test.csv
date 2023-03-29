@@ -1,0 +1,882 @@
+ID,text,positional,essential
+8999," In some cases , these have been incorporated to traditional parsing techniques , as it is the case with feature relaxation in the context of unification-based formalisms 
+ ( Bolioli et al. 1992 )  , or the addition of a set of catching error rules specially handling the deviant constructions 
+ ( Thurmair 1990 )  .",1,0
+9000," In some cases , these have been incorporated to traditional parsing techniques , as it is the case with feature relaxation in the context of unification-based formalisms 
+ ( Bolioli et al. 1992 )  , or the addition of a set of catching error rules specially handling the deviant constructions 
+ ( Thurmair 1990 )  .",1,0
+9001," In other cases , the relaxation component has been included as a new add-in feature to the parsing algorithm , as in the IBM's PLNLP approach 
+ ( Heidorn et al. 1982 )  , or in the work developed for the Translator's Workbench project using the METAL MT - system 
+ ( WB 1992 )  .",1,0
+9002," In this sense , the adequate integration of error detection and correction techniques within mainstream grammar formalisms has been addressed by a number of these projects 
+ ( Bolioli et al. 1992  , 
+ Vosse 1992  , 
+ Genthial et al. 1994  , 
+ Genthial et al. 1994 )  .",1,0
+9003," In this sense , the adequate integration of error detection and correction techniques within mainstream grammar formalisms has been addressed by a number of these projects 
+ ( Bolioli et al. 1992  , 
+ Vosse 1992  , 
+ Genthial et al. 1994  , 
+ Genthial et al. 1994 )  .",1,0
+9004," In this sense , the adequate integration of error detection and correction techniques within mainstream grammar formalisms has been addressed by a number of these projects 
+ ( Bolioli et al. 1992  , 
+ Vosse 1992  , 
+ Genthial et al. 1994  , 
+ Genthial et al. 1994 )  .",1,0
+9005," In this sense , the adequate integration of error detection and correction techniques within mainstream grammar formalisms has been addressed by a number of these projects 
+ ( Bolioli et al. 1992  , 
+ Vosse 1992  , 
+ Genthial et al. 1994  , 
+ Genthial et al. 1994 )  .",1,0
+9006," GramCheck has developed a grammar checker demonstrator for Spanish and Greek native writers using ALEP 
+ ( ET6/1 1991  , 
+ Simpkins 1994 )  as the NLP development platform , a client-server architecture as implemented in the X Windows system , Motif as the ` look and feel ' interface and Xminfo as the knowledge base storage format .",0,1
+9007," 
+ ( Veronis 1988 )  claims that native writers are unlikely to produce errors involving morphological features , while 
+ ( Vosse 1992 )  accepts such morpho-syntactic errors , in spite of the fact that an examination of texts by the author revealed that their appearance in native writer's texts is not frequent .",1,0
+9008," 
+ ( Veronis 1988 )  claims that native writers are unlikely to produce errors involving morphological features , while 
+ ( Vosse 1992 )  accepts such morpho-syntactic errors , in spite of the fact that an examination of texts by the author revealed that their appearance in native writer's texts is not frequent .",1,0
+9009," CSs are used in GramCheck roughly in the way presented in 
+ ( Crouch 1994 )  and 
+ ( Ruessink 1994 )  , developers of CSs for ALEP .",0,1
+9010," CSs are used in GramCheck roughly in the way presented in 
+ ( Crouch 1994 )  and 
+ ( Ruessink 1994 )  , developers of CSs for ALEP .",0,1
+9011," These clues are shaped as scores in the approach adopted for agreement errors , and , in this sense , our heuristics is closed to the metric operations performed by other grammar checkers based on NLP techniques 
+ ( Veronis 1988  , 
+ Bolioli et al. 1992  , 
+ Vosse 1992  , 
+ Genthial et al. 1994 )  .",1,0
+9012," These clues are shaped as scores in the approach adopted for agreement errors , and , in this sense , our heuristics is closed to the metric operations performed by other grammar checkers based on NLP techniques 
+ ( Veronis 1988  , 
+ Bolioli et al. 1992  , 
+ Vosse 1992  , 
+ Genthial et al. 1994 )  .",1,0
+9013," These clues are shaped as scores in the approach adopted for agreement errors , and , in this sense , our heuristics is closed to the metric operations performed by other grammar checkers based on NLP techniques 
+ ( Veronis 1988  , 
+ Bolioli et al. 1992  , 
+ Vosse 1992  , 
+ Genthial et al. 1994 )  .",1,0
+9014," These clues are shaped as scores in the approach adopted for agreement errors , and , in this sense , our heuristics is closed to the metric operations performed by other grammar checkers based on NLP techniques 
+ ( Veronis 1988  , 
+ Bolioli et al. 1992  , 
+ Vosse 1992  , 
+ Genthial et al. 1994 )  .",1,0
+9015," Motivated by a concern for lexical organization and global coherence in the structure of lexicon , some researchers have moved towards more expressive semantic descriptions , as well as more powerful methods of combining them ( see for example  ( Pustejovsky 1991  ,  Pustejovsky 1995 )  ;  ( Briscoe et al. 1993 )  .",1,0
+9016," Motivated by a concern for lexical organization and global coherence in the structure of lexicon , some researchers have moved towards more expressive semantic descriptions , as well as more powerful methods of combining them ( see for example  ( Pustejovsky 1991  ,  Pustejovsky 1995 )  ;  ( Briscoe et al. 1993 )  .",1,0
+9017," Motivated by a concern for lexical organization and global coherence in the structure of lexicon , some researchers have moved towards more expressive semantic descriptions , as well as more powerful methods of combining them ( see for example  ( Pustejovsky 1991  ,  Pustejovsky 1995 )  ;  ( Briscoe et al. 1993 )  .",1,0
+9018," This article will exploit one of these theories , The Generative Lexicon ( GL :  ( Pustejovsky 1995 )  , and extend it for the treatment of French mental adjectives .",0,1
+9019," Mental adjectives which denote an emotional state or a competence ( agent-oriented , following  ( Ernst 1984 )  present interesting syntactic and semantic polymorphic behaviour , as noted in the literature ( see for example  ( Lehrer 1990 )  and  ( Croft 1984 )  ) .",0,1
+9020," Mental adjectives which denote an emotional state or a competence ( agent-oriented , following  ( Ernst 1984 )  present interesting syntactic and semantic polymorphic behaviour , as noted in the literature ( see for example  ( Lehrer 1990 )  and  ( Croft 1984 )  ) .",1,0
+9021," Mental adjectives which denote an emotional state or a competence ( agent-oriented , following  ( Ernst 1984 )  present interesting syntactic and semantic polymorphic behaviour , as noted in the literature ( see for example  ( Lehrer 1990 )  and  ( Croft 1984 )  ) .",1,0
+9022," In the case of agent-oriented adjectives , the complement expresses the manifestation of the state and can be realized as an infinitive with e/pour or de ( examples ( 2a , b ) ) or a prepositional phrase ( 2c ) : ( 2a , b , c ) means that somebody is skilful in what he does or how he does it ( see  ( Croft 1984 )  ) .",1,0
+9023," ( b ) to represent the semantic ambiguity of mental adjectives by use of dotted types (  ( Pustejovsky 1995 )  , chapter 6.2 ); ",1,0
+9024," ( c ) to explain specific semantic selection by the notion of headedness (  ( Pustejovsky 1995 )  , chapter 5.3 ) .",1,0
+9025," The two events are default events , as the adjective remains a state , even when it has a causative sense , contrary to real transitions ( accomplishment or achievement ) , like couler ` sink ' , for example ( as pointed out in  ( Pustejovsky 1995 )  , chapter 10 ",1,0
+9026," The argument structure ( ARGSTR ) specifies that mental adjectives select for two arguments , one for human ( arg1 ) and a second for event ( see  ( Croft 1984 )  for a similar view ) .",1,0
+9027," Following  ( Croft 1993 )  , we think that there are two processes implied in a causal emotional state : an experiencer must direct his or her attention to a stimulus and this causes the experiencer to enter in a mental state .",1,0
+9028," The qualia structure ( QUALIA ) encodes the basic semantic type of a word ( its Lexical Conceptual Paradigm , or LCP ) and specifies how it is linked to other events and arguments of the event and argument structures ( see  ( Pustejovsky 1995 )  , chapter 6 ) .",1,0
+9029," In doing this , it specifies how to project the qualia representation and acts as a filter to constrain the set of projectable qualia : the headed event projects the formula associated with that event and it is this formula which needs to be saturated at the syntax level (  ( Pustejovsky 1995 )  , Chapter 6.2.5 ) .",1,0
+9030, These two ways of saturating a quale explain what  Croft (0000)   ( Croft 1984 )  and  ( Ernst 1984 )  have called the verbal/factive ambiguity of two arguments agent-oriented adjectives ( see also  ( Kiparsky and Kiparsky 1979 )  .,1,0
+9031, These two ways of saturating a quale explain what  Croft (0000)   ( Croft 1984 )  and  ( Ernst 1984 )  have called the verbal/factive ambiguity of two arguments agent-oriented adjectives ( see also  ( Kiparsky and Kiparsky 1979 )  .,1,0
+9032, These two ways of saturating a quale explain what  Croft (0000)   ( Croft 1984 )  and  ( Ernst 1984 )  have called the verbal/factive ambiguity of two arguments agent-oriented adjectives ( see also  ( Kiparsky and Kiparsky 1979 )  .,1,0
+9033," In ( 23 ) , the modification by the adjective is possible as livre ( book ) contains in its qualia structure two events , namely lire ( to read ) ( telic of livre ) and ecrire ( to write ) ( agentive of livre ) ( see  ( Pustejovsky and Bouillon 1995 )  for the qualia representation of livre ) .",1,0
+9034," Notice that when the events are defined in the lexical semantics of the word , the experiencing and the manifestation are intentional and controlled ( the experiencing is active , following  ( Lehrer 1990 )  .",0,1
+9035," A first attempt at tackling the problem follows from the observation that most emotion adjectives ending in -eux ( with causal complement and not derived from psychological verbs , as ennuyeux , outrageux , etc. ) behave in the same way ( see the list in ( 25 ) ) and that , more generally , the suffix plays a crucial role in restricting the head ( see  ( Anscombres 1995 )  for a similar view and section 4 for other examples of the influence of the suffix ) .",1,0
+9036," This distinction is in accordance with the classical distinction drawn between stative adjectives and dynamic ones , which , following  ( Quirk et al. 1994 ) : 434 , denote qualities that are thought to be subject to control by possessor .",0,1
+9037," Machine Readable Dictionaries ( MRDs ) are a good source of lexical information and have been shown to be applicable to the task of LKB construction  ( Dolan et al. 1993  ,  Calzolari 1992  ,  Copestake 1990  ,  Wilks et al. 1989  ,  Byrd et al. 1987 )  .",1,0
+9038," Machine Readable Dictionaries ( MRDs ) are a good source of lexical information and have been shown to be applicable to the task of LKB construction  ( Dolan et al. 1993  ,  Calzolari 1992  ,  Copestake 1990  ,  Wilks et al. 1989  ,  Byrd et al. 1987 )  .",1,0
+9039," Machine Readable Dictionaries ( MRDs ) are a good source of lexical information and have been shown to be applicable to the task of LKB construction  ( Dolan et al. 1993  ,  Calzolari 1992  ,  Copestake 1990  ,  Wilks et al. 1989  ,  Byrd et al. 1987 )  .",1,0
+9040," Machine Readable Dictionaries ( MRDs ) are a good source of lexical information and have been shown to be applicable to the task of LKB construction  ( Dolan et al. 1993  ,  Calzolari 1992  ,  Copestake 1990  ,  Wilks et al. 1989  ,  Byrd et al. 1987 )  .",1,0
+9041," Machine Readable Dictionaries ( MRDs ) are a good source of lexical information and have been shown to be applicable to the task of LKB construction  ( Dolan et al. 1993  ,  Calzolari 1992  ,  Copestake 1990  ,  Wilks et al. 1989  ,  Byrd et al. 1987 )  .",1,0
+9042," Efforts in finding connections between words is seen in work on automatic extraction of semantic relations from MRDs  ( Ahlswede and Evens 1988  ,  Alshawi 1989  ,  Montemagni and Vanderwende 1992 )  .",1,0
+9043," Efforts in finding connections between words is seen in work on automatic extraction of semantic relations from MRDs  ( Ahlswede and Evens 1988  ,  Alshawi 1989  ,  Montemagni and Vanderwende 1992 )  .",1,0
+9044," Efforts in finding connections between words is seen in work on automatic extraction of semantic relations from MRDs  ( Ahlswede and Evens 1988  ,  Alshawi 1989  ,  Montemagni and Vanderwende 1992 )  .",1,0
+9045," Additionally , efforts in finding words that are close semantically is seen by the current interest in statistical techniques for word clustering , looking at co-occurrences of words in text corpora or dictionaries  ( Church and Hanks 1989  ,  Wilks et al. 1989 )  , ,  ( Pereira et al. 1995 )  .",1,0
+9046," Additionally , efforts in finding words that are close semantically is seen by the current interest in statistical techniques for word clustering , looking at co-occurrences of words in text corpora or dictionaries  ( Church and Hanks 1989  ,  Wilks et al. 1989 )  , ,  ( Pereira et al. 1995 )  .",1,0
+9047," Additionally , efforts in finding words that are close semantically is seen by the current interest in statistical techniques for word clustering , looking at co-occurrences of words in text corpora or dictionaries  ( Church and Hanks 1989  ,  Wilks et al. 1989 )  , ,  ( Pereira et al. 1995 )  .",1,0
+9048," Inspired by research in the areas of semantic relations , semantic distance , concept clustering , and using Conceptual Graphs  ( Sowa 1984 )  as our knowledge representation , we introduce Concept Clustering Knowledge Graphs ( CCKGs ) .",0,1
+9049," It will give the relations between the words , making the graph in some aspects similar to a script  ( Schank and Abelson 1975 )  .",1,0
+9050," Such information is frequently used for noun taxonomy construction  ( Byrd et al. 1987  ,  Klavans et al. 1990  ,  Barriere and Popowich 1996 )  .",1,0
+9051," Such information is frequently used for noun taxonomy construction  ( Byrd et al. 1987  ,  Klavans et al. 1990  ,  Barriere and Popowich 1996 )  .",1,0
+9052," Such information is frequently used for noun taxonomy construction  ( Byrd et al. 1987  ,  Klavans et al. 1990  ,  Barriere and Popowich 1996 )  .",1,0
+9053," A is a part of B )  ( Ahlswede and Evans 1996  ,  Dolan et al. 1993 )  .",1,0
+9054, It has been constructed automatically according to the techniques described in  ( Barriere and Popowich 1996 )  .,0,1
+9055," As we are using the conceptual graph formalism to represent our definitions , we can use the graph matching operations defined in  ( Sowa 1984 )  .",0,1
+9056," In the maximal common subgraph algorithm proposed by  ( Sowa 1984 )  , two concepts ( C1 , C2 ) could be matched if one subsumed the other in the concept hierarchy .",0,1
+9057, We can relax that criteria to match two concept s when a third concept C which subsumes C1 and C2 has a high enough degree of informativeness  ( Resnik 1995 )  .,1,0
+9058, A set of lexical implication rules were developed by  ( Ostler and Atkins 1992 )  for relating word senses .,0,1
+9059, Transitivity in relations is in itself a challenging area of study  ( Cruse 1986 )  and we have only begun to explore it .,1,0
+9060, The semantic weight of a word or its informativeness can be related to its frequency  ( Resnik 1995 )  .,1,0
+9061," Since there is no well-agreed to definition of what an utterance is , we instead focus on intonational phrases 
+ ( Silverman et al. 1992 )  , which end with an acoustically signaled boundary tone .",1,0
+9062," The following example , from the Trains corpus 
+ ( Heeman and Allen 1995 )  , gives an example of a speech repair with the words that the speaker intends to be replaced marked by reparandum , the words that are the intended replacement marked as alteration , and the cue phrases and filled pauses that tend to occur in between marked as the editing term .",0,1
+9063," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9064," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9065," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9066," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9067," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9068," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9069," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9070," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9071," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9072," Much work has been done on both detecting boundary tones ( e.g. 
+ ( Wang and Hirschberg 1992  , 
+ Wightman and Ostendorf 1994  , 
+ Stolcke and Shriberg 1996a  , 
+ Kompe et al. 1994  , 
+ Mast et al. 1996 )  ) and on speech repair detection and correction ( e.g. 
+ ( Hindle 1983  , 
+ Bear et al. 1992  , 
+ Nakatani and Hirschberg 1994  , 
+ Heeman and Allen 1994  , 
+ Stolcke and Shriberg 1996b )  ) .",1,0
+9073," Discourse markers 
+ ( Schiffrin 1987  , 
+ Hirschberg and Litman 1993  , 
+ Byron and Heeman 1997 )  are used to relate new speech to the current discourse state .",1,0
+9074," Discourse markers 
+ ( Schiffrin 1987  , 
+ Hirschberg and Litman 1993  , 
+ Byron and Heeman 1997 )  are used to relate new speech to the current discourse state .",1,0
+9075," Discourse markers 
+ ( Schiffrin 1987  , 
+ Hirschberg and Litman 1993  , 
+ Byron and Heeman 1997 )  are used to relate new speech to the current discourse state .",1,0
+9076," Furthermore , in order to determine the extent of the reparandum , one needs to take into account the parallel structure that typically exists between the reparandum and alteration , which relies on at identifying the syntactic roles , or part-of-speech ( POS ) tags , of the words involved 
+ ( Bear et al. 1992  , 
+ Heeman and Allen 1994 )  .",1,0
+9077," Furthermore , in order to determine the extent of the reparandum , one needs to take into account the parallel structure that typically exists between the reparandum and alteration , which relies on at identifying the syntactic roles , or part-of-speech ( POS ) tags , of the words involved 
+ ( Bear et al. 1992  , 
+ Heeman and Allen 1994 )  .",1,0
+9078," However , speech repairs disrupt the context that is needed to determine the POS tags 
+ ( Hindle 1983 )  .",1,0
+9079," As part of the TRAINS project 
+ ( Allen et al. 1995 )  , which is a long term research project to build a conversationally proficient planning assistant , we have collected a corpus of problem solving dialogs 
+ ( Heeman and Allen 1995 )  .",1,0
+9080," As part of the TRAINS project 
+ ( Allen et al. 1995 )  , which is a long term research project to build a conversationally proficient planning assistant , we have collected a corpus of problem solving dialogs 
+ ( Heeman and Allen 1995 )  .",1,0
+9081," There is typically a correspondence between the reparandum and the alteration , and following 
+Bear et al.  ( Bear et al. 1992 )  , we annotate this using the labels m for word matching and r for word replacements ( words of the same syntactic category ) .",1,0
+9082," The POS tagset , based on the Penn Treebank tagset 
+ ( Marcus et al. 1993 )  , includes special tags for denoting when a word is being used as a discourse marker .",0,1
+9083," Full details can be found in 
+ ( Heeman and Allen 1997  , 
+ Heeman 1997 )  .",1,0
+9084," Full details can be found in 
+ ( Heeman and Allen 1997  , 
+ Heeman 1997 )  .",1,0
+9085," We now have two probability distributions that we need to estimate , which we do using decision trees 
+ ( Breiman et al. 1984  , 
+ Bahl et al. 1989 )  .",0,1
+9086," We now have two probability distributions that we need to estimate , which we do using decision trees 
+ ( Breiman et al. 1984  , 
+ Bahl et al. 1989 )  .",0,1
+9087," After the tree is grown , a heldout dataset is used to smooth the probabilities of each node with its parent 
+ ( Bahl et al. 1989 )  .",0,1
+9088," To allow the decision tree to ask about the words and POS tags in the context , we cluster the words and POS tags using the algorithm of 
+Brown et al.  ( Brown et al. 1992 )  into a binary classification tree .",0,1
+9089," Unlike other work ( e.g. 
+ ( Black et al. 1992  , 
+ Magerman 1995 )  ) , we treat the word identities as a further refinement of the POS tags ; thus we build a word classification tree for each POS tag .",1,0
+9090," Unlike other work ( e.g. 
+ ( Black et al. 1992  , 
+ Magerman 1995 )  ) , we treat the word identities as a further refinement of the POS tags ; thus we build a word classification tree for each POS tag .",1,0
+9091," We introduce null tokens between each pair of consecutive words  equation  and wi
+ ( Heeman and Allen 1994 )  , which will be tagged as to the occurrence of these events .",0,1
+9092," We start with the words and their POS tags that are in the context and for each non-null tone , editing term ( we also skip over E=ET ) , and repair tag , we insert it into the appropriate place , just as 
+Kompe et al.  ( Kompe et al. 1994 )  do for boundary tones in their language model .",1,0
+9093," Furthermore , if an editing term is completed , or the extent of a repair is known , we can also clean up the editing term or reparandum , respectively , in the same way that 
+Stolcke and Shriberg  ( Stolcke and Shriberg 1996b )  clean up filled pauses , and simple repair patterns .",1,0
+9094," All silence durations are automatically obtained from a word aligner 
+ ( Research 1994 )  .",0,1
+9095," In contrast , a word-based trigram backoff model 
+ ( Katz 1987 )  built with the CMU statistical language modeling toolkit 
+ ( Rosenfeld 1995 )  achieved a perplexity of 26.13 .",1,0
+9096," In contrast , a word-based trigram backoff model 
+ ( Katz 1987 )  built with the CMU statistical language modeling toolkit 
+ ( Rosenfeld 1995 )  achieved a perplexity of 26.13 .",0,1
+9097," The fourth column adds in speech repair correction , and shows that taking into account the correction , gives better detection rates 
+ ( Heeman et al. 1996 )  .",1,0
+9098," 
+Bear et al.  ( Bear et al. 1992 )  used a simple pattern matching approach on ATIS word transcriptions .",1,0
+9099," 
+Nakatani and Hirschberg  ( Nakatani and Hirschberg 1994 )  examined how speech repairs can be detected using a variety of information , including acoustic , presence of word matchings , and POS tags .",1,0
+9100," 
+Stolcke and Shriberg  ( Stolcke and Shriberg 1996b )  examined whether perplexity can be improved by modeling simple types of speech repairs in a language model .",1,0
+9101," For detecting boundary tones , the model of 
+Wightman and Ostendorf  ( Wightman and Ostendorf 1994 )  achieves a recall rate of 78.1% and a precision of 76.8% .",1,0
+9102," 
+Wang and Hirschberg  ( Wang and Hirschberg 1992 )  did employ spontaneous speech , namely , the ATIS corpus .",1,0
+9103, The models of Kompe et al.  ( Kompe et al. 1994 )  and Mast et al.  ( Mast et al. 1996 )  are the most similar to our model in terms of incorporating a language model .,1,0
+9104, The models of Kompe et al.  ( Kompe et al. 1994 )  and Mast et al.  ( Mast et al. 1996 )  are the most similar to our model in terms of incorporating a language model .,1,0
+9105," 
+ Mast et al. (0000)  achieve a recall rate of 85.0% and a precision of 53.1% on identifying dialog acts in a German corpus .",1,0
+9106, In  ( Busemann 1996 )  both approaches are combined resulting in a practical small generation grammar tool .,1,0
+9107, The underlying procedure is valid for grammars written in typed unification formalisms ; it is here carried out for systemic grammars within the development environment for text generation KPML  ( Bateman 1997 )  .,0,1
+9108," Computational instances of systemic grammar are successfully employed in some of the largest and most influential text generation projects--such as , for example , PENMAN  ( Mann 1983 )  , COMMUNAL  ( Fawcett and Tucker 1990 )  , TECHDOC  ( Roesner and Stede 1994 )  , Drafter  ( Paris and Vander Linden 1996 )  , and Gist  ( Not and Stock 1994 )  .",1,0
+9109," Computational instances of systemic grammar are successfully employed in some of the largest and most influential text generation projects--such as , for example , PENMAN  ( Mann 1983 )  , COMMUNAL  ( Fawcett and Tucker 1990 )  , TECHDOC  ( Roesner and Stede 1994 )  , Drafter  ( Paris and Vander Linden 1996 )  , and Gist  ( Not and Stock 1994 )  .",1,0
+9110," Computational instances of systemic grammar are successfully employed in some of the largest and most influential text generation projects--such as , for example , PENMAN  ( Mann 1983 )  , COMMUNAL  ( Fawcett and Tucker 1990 )  , TECHDOC  ( Roesner and Stede 1994 )  , Drafter  ( Paris and Vander Linden 1996 )  , and Gist  ( Not and Stock 1994 )  .",1,0
+9111," Computational instances of systemic grammar are successfully employed in some of the largest and most influential text generation projects--such as , for example , PENMAN  ( Mann 1983 )  , COMMUNAL  ( Fawcett and Tucker 1990 )  , TECHDOC  ( Roesner and Stede 1994 )  , Drafter  ( Paris and Vander Linden 1996 )  , and Gist  ( Not and Stock 1994 )  .",1,0
+9112," Given the notational equivalence of HPSG and systemic grammar first mentioned by  ( Carpenter 1992 )  and  ( Zajac 1992 )  , and further elaborated in  ( Henschel 1995 )  , one can characterize a systemic grammar as a large type hierarchy with multiple ( conjunctive and disjunctive ) and multi-dimensional inheritance with an open-world semantics .",1,0
+9113," Given the notational equivalence of HPSG and systemic grammar first mentioned by  ( Carpenter 1992 )  and  ( Zajac 1992 )  , and further elaborated in  ( Henschel 1995 )  , one can characterize a systemic grammar as a large type hierarchy with multiple ( conjunctive and disjunctive ) and multi-dimensional inheritance with an open-world semantics .",1,0
+9114," Given the notational equivalence of HPSG and systemic grammar first mentioned by  ( Carpenter 1992 )  and  ( Zajac 1992 )  , and further elaborated in  ( Henschel 1995 )  , one can characterize a systemic grammar as a large type hierarchy with multiple ( conjunctive and disjunctive ) and multi-dimensional inheritance with an open-world semantics .",1,0
+9115, The basic element of a systemic grammar--a so-called system--is a type axiom of the form ( adopting the notation of CUF  ( Doerre et al. 1996 )  : ,0,1
+9116, The following type axioms taken from the large systemic English grammar NIGEL  ( Matthiessen 1983 )  shall illustrate the nature of systems in a systemic grammar : ,0,1
+9117," Currently used implementations of SFG are the PENMAN system  ( Penman Project 1989 )  , the KPML system  ( Bateman 1997 )  and WAG - KRL  ( O'Donnell 1994 )  .",1,0
+9118," Currently used implementations of SFG are the PENMAN system  ( Penman Project 1989 )  , the KPML system  ( Bateman 1997 )  and WAG - KRL  ( O'Donnell 1994 )  .",1,0
+9119, They also serve to enforce deterministic choice--an important property for practical generation ( cf.  ( Reiter 1994 )  ) .,1,0
+9120," In order to perform such a traversal , a breadth traversal with compilation of all crowns of the lattice ( see  ( Ait-Kaci et al. 1989 )  ) would be necessary .",1,0
+9121, A related approach can be found in  ( O'Donnell 1992 )  for the extraction of smaller systemic subgrammars for analysis .,1,0
+9122," The underlying knowledge base , comprising half a million semantic concepts , includes automatically extracted information from 14 000 encyclopedia articles from McMillans planned publication `` Dictionary of Art '' combined with several additional information sources such as the Getty `` Art and Architecture Thesaurus '' ; the application is described in detail in  ( Kamps et al. 1996 )  .",1,0
+9123, Our approach shows some similarities to that proposed by  ( Rayner and Carter 1996 )  for improving parsing performance by grammar pruning and specialization with respect to a training corpus .,1,0
+9124," The compilation of the full grammar NIGEL has so far only proved possible for CUF ( see  ( Henschel 1995 )  ) , and the resulting type deduction runs too slowly for practical applications .",1,0
+9125," The structures generated are still the ` full ' grammatical structures that are produced by the corresponding full grammar : if , however , certain constituent descriptions are always unified ( conflated in systemic terminology ) then , analogously to  ( Rayner and Carter 1996 )  , they are candidates for replacement by a single constituent description in the extracted subgrammar .",1,0
+9126,It is known that the distribution of words in a document is related to its topic  ( Salton and McGill 1983 )  .,1,0
+9127,"Profiles for a large number of entities were compiled using our earlier system , PROFILE  ( Radev and McKeown 1997 )  .",0,1
+9128,"For example , picking one among several equivalent ( or nearly equivalent ) constructions is a form of lexical choice ( e.g. , "" The Utah Jazz handed the Boston Celtics a defeat "" vs. "" The Utah Jazz defeated the Boston Celtics ""  ( Robin 1994 )  ) .",1,0
+9129,"Some examples of language reuse include collocation analysis  ( Smadja 1993 )  , the use of entire factual sentences extracted from corpora ( e.g. , `` ' Toy Story ' is the Academy Award winning animated film developed by Pixar '' ) , and summarization using sentence extraction  ( Paice 1990 )  .",1,0
+9130,"Some examples of language reuse include collocation analysis  ( Smadja 1993 )  , the use of entire factual sentences extracted from corpora ( e.g. , `` ' Toy Story ' is the Academy Award winning animated film developed by Pixar '' ) , and summarization using sentence extraction  ( Paice 1990 )  .",1,0
+9131,Other techniques that can be broadly categorized as language reuse are learning relations from on-line texts  ( Mitchell 1997 )  and answering natural language questions using an on-line encyclopedia  ( Kupiec 1993 )  .,1,0
+9132,Other techniques that can be broadly categorized as language reuse are learning relations from on-line texts  ( Mitchell 1997 )  and answering natural language questions using an on-line encyclopedia  ( Kupiec 1993 )  .,1,0
+9133,WordNet  ( Miller et al. 1990 )  is an on-line hierarchical lexical database which contains semantic information about English words ( including hypernymy relations which we use in our system ) .,0,1
+9134,Ripper  ( Cohen 1995 )  is an algorithm that learns rules from example tuples in a relation .,0,1
+9135,"The extraction grammar , developed in CREP  ( Duford 1993 )  , covers a variety of pre-modifier and appositional noun phrases .",0,1
+9136,We should note that PROFILE is part of a large system for information retrieval and summarization of news through information extraction and symbolic text generation  ( McKeown and Radev 1995 )  .,0,1
+9137,"We intend to use PROFILE to improve lexical choice in the summary generation component , especially when producing user-centered summaries or summary updates  ( Radev and McKeown 1998 )  .",1,0
+9138,In  ( Radev and McKeown 1998 )  we show how the conversion of extracted descriptions into components of a generation grammar allows for flexible ( re ) generation of new descriptions that don't appear in the source text .,1,0
+9139,Our computational approach  ( Thomason and Hobbs 1997 )  uses a form of weighted abduction as the reasoning mechanism  ( Hobbs et al. 1993 )  and modal operators to model context .,1,0
+9140,Our computational approach  ( Thomason and Hobbs 1997 )  uses a form of weighted abduction as the reasoning mechanism  ( Hobbs et al. 1993 )  and modal operators to model context .,0,1
+9141,"From our first annotation trials , we found that the recognition of `` classical '' speech acts  ( Austin 1962  ,  Searle 1975 )  by coders is fairly reliable , while recognizing contextual relationships ( e.g. , whether an utterance accepts a proposal ) is not as reliable .",1,0
+9142,"From our first annotation trials , we found that the recognition of `` classical '' speech acts  ( Austin 1962  ,  Searle 1975 )  by coders is fairly reliable , while recognizing contextual relationships ( e.g. , whether an utterance accepts a proposal ) is not as reliable .",1,0
+9143,"Whereas several groups are working with the unadapted core DRI scheme  ( Core and Allen 1997  ,  Poesio and Traum 1997 )  , we have attempted to adapt it to our corpus and particular research questions .",1,0
+9144,"Whereas several groups are working with the unadapted core DRI scheme  ( Core and Allen 1997  ,  Poesio and Traum 1997 )  , we have attempted to adapt it to our corpus and particular research questions .",1,0
+9145,Our corpus consists of 24 computer-mediated dialogues in which two participants collaborate on a simple task of buying furniture for the living and dining rooms of a house ( a variant of the task in  ( Walker 1993 )  ) .,1,0
+9146,"The problem is not easy , since , as speech act theory points out  ( Austin 1962  ,  Searle 1975 )  , surface form is not a clear indicator of speaker intentions .",1,0
+9147,"The problem is not easy , since , as speech act theory points out  ( Austin 1962  ,  Searle 1975 )  , surface form is not a clear indicator of speaker intentions .",1,0
+9148,"This dimension characterizes the potential effect that an utterance Ui has on the subsequent dialogue , and roughly corresponds to the classical notion of an illocutionary act  ( Austin 1962  ,  Searle 1975 )  .",1,0
+9149,"This dimension characterizes the potential effect that an utterance Ui has on the subsequent dialogue , and roughly corresponds to the classical notion of an illocutionary act  ( Austin 1962  ,  Searle 1975 )  .",1,0
+9150,Table  CREF  reports values for the Kappa ( K ) coefficient of agreement  ( Carletta 1996 )  for Forward and Backward Functions .,0,1
+9151,"To assess the import of the values 0lt ; Klt ; 1 beyond K's statistical significance ( all of our K values are significant at p=0.000005 ) , the discourse processing community uses Krippendorf's scale  ( Krippendorff 1980 )  , which discounts any variable with K < .67 , and allows tentative conclusions when .67 < K < .8 K , and definite conclusions when K equation  .",0,1
+9152,The highest possible value for K may be smaller for low frequency tags  ( Grove et al. 1981 )  .,1,0
+9153,Our assessment is supported by comparing our results to those of  ( Core and Allen 1997 )  who used the unadapted DRI manual -- see Table  CREF  .,1,0
+9154,"One research group tried to use the DRI core scheme on free-flow conversations , and had to radically modify it in order to achieve reliable coding  ( Stolcke et al. 1998 )  .",1,0
+9155,"Note that this calls into question analyses of agreements based on a single coder's tagging effort , e.g.  ( Walker 1996 )  .",1,0
+9156,"We were instead surprised that AD+Cs are a very common category among the antecedents of Commit ( 20% ) ; the second commit appears to simply reconfirm the commitment expressed by the first  ( Walker 1993  ,  Walker 1996 )  , and does not appear to count as a proposal .",1,0
+9157,"We were instead surprised that AD+Cs are a very common category among the antecedents of Commit ( 20% ) ; the second commit appears to simply reconfirm the commitment expressed by the first  ( Walker 1993  ,  Walker 1996 )  , and does not appear to count as a proposal .",1,0
+9158,"Anaphora resolution is still present as a significant linguistic problem , both theoretically and practically , and interest has recently been renewed with the introduction of a quantitative evaluation regime as part of the Message Understanding Conference ( MUC ) evaluations of Information Extraction ( IE ) systems  ( Grishman and Sundheim 1996 )  .",1,0
+9159,"This paper describes an evaluation of a focus-based approach to pronoun resolution ( not anaphora in general ) , based on an extension of Sidner ' s algorithm  ( Sidner 1981 )  proposed in  ( Azzam 1996 )  , with further refinements from development on real-world texts .",0,1
+9160,"This paper describes an evaluation of a focus-based approach to pronoun resolution ( not anaphora in general ) , based on an extension of Sidner ' s algorithm  ( Sidner 1981 )  proposed in  ( Azzam 1996 )  , with further refinements from development on real-world texts .",0,1
+9161,"The approach is implemented within the general coreference mechanism provided by the LaSIE ( Large Scale Information Extraction ) system  ( Gaizauskas et al. 1995 )  and  ( Humphreys et al. 1998 )  , Sheffield University's entry in the MUC-6 and 7 evaluations .",0,1
+9162,"For anaphora resolution , however , stemming from  Sidner (0000)  ' s work , focus has been given an algorithmic definition and a set of rules for its application .",1,0
+9163,"Sidner (0000)  ' s approach is based on the claim that anaphora generally refer to the current discourse focus , and so modelling changes in focus through a discourse will allow the identification of antecedents .",1,0
+9164,"Sidner (0000)  ' s algorithmic account , although not exhaustively specified , has lead to the implementation of focus-based approaches to anaphora resolution in several systems , e.g. PIE  ( Lin 1995 )  .",1,0
+9165,"Sidner (0000)  ' s algorithmic account , although not exhaustively specified , has lead to the implementation of focus-based approaches to anaphora resolution in several systems , e.g. PIE  ( Lin 1995 )  .",1,0
+9166,"The LaSIE system  ( Gaizauskas et al. 1995 )  and  ( Humphreys et al. 1998 )  , has been designed as a general purpose IE system which can conform to the MUC task specifications for named entity identification , coreference resolution , IE template element and relation identification , and the construction of scenario-specific IE templates .",1,0
+9167,"The LaSIE system  ( Gaizauskas et al. 1995 )  and  ( Humphreys et al. 1998 )  , has been designed as a general purpose IE system which can conform to the MUC task specifications for named entity identification , coreference resolution , IE template element and relation identification , and the construction of scenario-specific IE templates .",1,0
+9168,It is expressed in the XI formalism  ( Gaizauskas 1995 )  which provides a basic inheritance mechanism for property values and the ability to represent multiple classificatory dimensions in the hierarchy .,1,0
+9169,"Our implementation makes use of the algorithm proposed in  ( Azzam 1996 )  , where elementary events ( EEs , effectively simple clauses ) are used as basic processing units , rather than sentences .",0,1
+9170,"EE-2 has a pronoun in ` thematic ' position , ` theme ' being either the object of a transitive verb , or the subject of an intransitive or the copula ( following  ( Gruber 1976 )  ) .",0,1
+9171,"EE-2 has an ` agent ' , where this is an animate verb subject ( again as in  ( Gruber 1976 )  ) , and this becomes the new AF .",0,1
+9172,"As part of MUC  ( Grishman and Sundheim 1996 )  , coreference resolution was evaluated as a sub-task of information extraction , which involved negotiating a definition of coreference relations that could be reliably evaluated .",1,0
+9173,"Automatically annotated texts , produced by systems using the same markup scheme , were then compared with the manually annotated versions , using scoring software made available to MUC participants , based on  ( Vilain et al. 1995 )  .",1,0
+9174,"For example , if the parser fails to attach a prepositional phrase containing an antecedent , it will then be missed from the focus registers and so the IRs ( see  ( Azzam 1995 )  ) .",0,1
+9175,"PAS acts as the interface between lexical semantics and d-structure in GB 
+ ( Grimshaw 1990 )  , functional structure in LFG 
+ ( Alsina 1996 )  , and complement structure in HPSG 
+ ( Wechsler 1995 )  .",1,0
+9176,"PAS acts as the interface between lexical semantics and d-structure in GB 
+ ( Grimshaw 1990 )  , functional structure in LFG 
+ ( Alsina 1996 )  , and complement structure in HPSG 
+ ( Wechsler 1995 )  .",1,0
+9177,"PAS acts as the interface between lexical semantics and d-structure in GB 
+ ( Grimshaw 1990 )  , functional structure in LFG 
+ ( Alsina 1996 )  , and complement structure in HPSG 
+ ( Wechsler 1995 )  .",1,0
+9178,"PAS is the sole level of representation in Combinatory Categorial Grammar ( CCG ) 
+ ( Steedman 1996 )  .",1,0
+9179,"For instance , Grimshaw
+ ( Grimshaw 1990 )  defines the thematic hierarchy as : ",1,0
+9180,"whereas LFG accounts make use of the following 
+ ( Bresnan and Kanerva 1989 )  : ",1,0
+9181,"8 
+ ( Grimshaw 1990 )  : ",1,0
+9182,"To abstract away from language-particular case systems and mapping of thematic roles to grammatical functions , I assume the Applicative Hierarchy of 
+Shaumyan  ( Shaumyan 1987 )  for the definition of prominence : ",0,1
+9183,"I follow 
+ Shaumyan (0000)  and 
+Steedman  ( Steedman 1996 )  also in the ordered representation of the PAS (  CREF  ) .",0,1
+9184,"I follow 
+ Shaumyan (0000)  and 
+Steedman  ( Steedman 1996 )  also in the ordered representation of the PAS (  CREF  ) .",0,1
+9185,"The reader is referred to 
+ ( Shaumyan 1987 )  for linguistic justification of this ordering .",1,0
+9186,"These categories follow from the order-preserving type shifting scheme 
+ ( Dowty 1988 )  : ",0,1
+9187,"The former alternative makes the spurious ambiguity problem of CG parsing 
+ ( Karttunen 1989 )  even more severe .",1,0
+9188,"Multi - set CCG 
+ ( Hoffman 1995 )  is an example of the set-oriented approach .",1,0
+9189,"CCG schema ( 
+Steedman
+ ( Steedman 1988  , 
+ Steedman 1990 )  ) is summarized in (  CREF  ) .",1,0
+9190,"CCG schema ( 
+Steedman
+ ( Steedman 1988  , 
+ Steedman 1990 )  ) is summarized in (  CREF  ) .",1,0
+9191,"Combinator notation is preferred here because they are the formal primitives operating on the PAS ( cf. 
+ ( Curry and Feys 1958 )  for Combinatory Logic ) .",1,0
+9192,"Agreement features enforce the possessor-possessed agreement on person and number via unification ( as in UCG 
+ ( Calder et al. 1988 )  ) : ",1,0
+9193,"This problem is resolved by grammar rewriting in the sense proposed by 
+ Eisner (0000) ] .",0,1
+9194,"Grammar rewriting can be done using predictive combinators 
+ ( Wittenburg 1987 )  , but they cannot handle crossing compositions that are essential to our method .",1,0
+9195,"Other normal form parsers , e.g. that of 
+Hepple and Morrill  ( Hepple and Morrill 1989 )  , have the same problem .",1,0
+9196,"The labels are as in 
+ ( Eisner 1996 )  .",0,1
+9197,"We use 
+ Eisner (0000)  ' s method to rewrite all rules in (  CREF  ) .",0,1
+9198,"Constrained type shifting avoids the problem with freely available categories in 
+ Eisner (0000)  ' s normal form parsing scheme .",1,0
+9199,"However , some surface characteristics of the language , such as lack of case marking in certain constructions , puts the burden of type shifting on the processor 
+ ( Bozsahin 1997 )  .",1,0
+9200,"But , as pointed out by 
+Eisner p .85 
+ ( Eisner 1996 )  , this is not spurious ambiguity in the technical sense , just multiple derivations due to alternative lexical category assignments .",1,0
+9201,"The combinators in this form may arise from the CCG schema , i.e. , the compositor , and the substitutor 
+ ( Steedman 1987 )  .",1,0
+9202,"The sequence of evaluation is the normal order , which corresponds to reducing the leftmost-outermost redex first 
+ ( Jones 1987 )  .",1,0
+9203,"The same strategy can account for deriving the PAS in unbounded constructions and non-constituent coordination 
+ ( Bozsahin 1997 )  .",1,0
+9204,"Not only do all linguistic theories refer to some reformulation of the traditional notion of valency ( in the form of  equation -grid , subcategorization list , argument list , or extended domain of locality ) ; there is a growing number of parsers based on binary relations between words 
+ ( Eisner 1997  , 
+ Maruyama 1990 )  .",1,0
+9205,"Not only do all linguistic theories refer to some reformulation of the traditional notion of valency ( in the form of  equation -grid , subcategorization list , argument list , or extended domain of locality ) ; there is a growing number of parsers based on binary relations between words 
+ ( Eisner 1997  , 
+ Maruyama 1990 )  .",1,0
+9206,"Even theories based on phrase structure may have processing models based on relations between lexical items 
+ ( Rambow and Joshi 1994 )  .",1,0
+9207,"Our position will be that dependency relations are motivated semantically 
+ ( Tesniere 1959 )  , and need not be projective .",1,0
+9208,"A very early result on the weak generative equivalence of context-free grammars and DGs suggested that DGs are incapable of describing surface word order 
+ ( Gaifman 1965 )  .",1,0
+9209,"This result has been criticised to apply only to impoverished DGs which do not properly represent formally the expressivity of contemporary DG variants 
+ ( Neuhaus and Broeker 1997 )  , and our use of a context-free backbone with further constraints imposed by dependency relations further supports the view that DG is not a notational variant of context-free grammar .",1,0
+9210,"A context-free base ( or skeleton ) has often been cited as a prerequisite for practical applicability of a natural language grammar 
+ ( Erbach and Uszkoreit 1990 )  , and we here show that a DG can meet this criterion with ease .",1,0
+9211,"A very brief characterization of DG is that it recognizes only lexical , not phrasal nodes , which are linked by directed , typed , binary relations to form a dependency tree 
+ ( Tesniere 1959  , 
+ Hudson 1993 )  .",1,0
+9212,"
+ ( Sgall et al. 1986 )  assumes a language-independent underlying order , which is represented as a projective dependency tree .",1,0
+9213,"Recently , 
+ ( Kruijff 1997 )  has given a categorial-style formulation of these ordering rules .",1,0
+9214,"
+ ( Melcuk 1988 )  assumes seven strata of representation .",1,0
+9215,"These rules have not yet been formally specified 
+ ( Melcuk and Pertsov 1987 )  , p.187f] ( but see the proposal by 
+ ( Rambow and Joshi in print )  ) .",1,0
+9216,"( WG , 
+ ( Hudson 1990 )  ) is based on general graphs instead of trees .",1,0
+9217,"( DUG , 
+ ( Hellwig 1986 )  ) defines a tree-like data structure for the representation of syntactic analyses .",1,0
+9218,"
+ ( McCord 1990 )  employs a number of rule types , some of which are exclusively concerned with precedence .",1,0
+9219,"From a descriptive viewpoint , the syntactic construction is often cited to determine the possibility and scope of discontinuities 
+ ( Bhatt 1990  , 
+ Matthews 1981 )  .",1,0
+9220,"From a descriptive viewpoint , the syntactic construction is often cited to determine the possibility and scope of discontinuities 
+ ( Bhatt 1990  , 
+ Matthews 1981 )  .",1,0
+9221,"In PS - based accounts , the construction is represented by phrasal categories , and extraction is limited by bounding nodes ( e.g. , 
+ ( Haegeman 1994  , 
+ Becker et al. 1991 )  ) .",1,0
+9222,"In PS - based accounts , the construction is represented by phrasal categories , and extraction is limited by bounding nodes ( e.g. , 
+ ( Haegeman 1994  , 
+ Becker et al. 1991 )  ) .",1,0
+9223,"Further information can be found in 
+ ( Bresnan and Kaplan 1982 )  and 
+ Dalrymple (0000) -etal1995 .",1,0
+9224,"The two standard projections , and those used here , are the constituent ( c- ) structure and the functional ( f- ) structure ( 
+ ( Kaplan 1995 )  and 
+ ( Halvorsen and Kaplan 1995 )  discuss the projection idea in more detail ) .",1,0
+9225,"The two standard projections , and those used here , are the constituent ( c- ) structure and the functional ( f- ) structure ( 
+ ( Kaplan 1995 )  and 
+ ( Halvorsen and Kaplan 1995 )  discuss the projection idea in more detail ) .",1,0
+9226,"Another important construct of LFG is functional uncertainty 
+ ( Kaplan and Zaenen 1995  , 
+ Kaplan and Maxwell 1995 )  .",1,0
+9227,"Another important construct of LFG is functional uncertainty 
+ ( Kaplan and Zaenen 1995  , 
+ Kaplan and Maxwell 1995 )  .",1,0
+9228,"
+ ( Zaenen and Kaplan 1995 )  introduced f-precedence <finto LFG , which allows to express on f-structure constraints on the order of the c-structure nodes mapping to the current f-structure .",1,0
+9229,"We have presented a new approach to word order which preserves traditional notions ( semantically motivated dependencies , topological fields ) while being fully lexicalized and formally precise 
+ ( Broeker 1997 )  .",1,0
+9230,"On the theoretical side , this work has argued for a strict separation of precedence and categorial information in LFG ( or PSG in general , see 
+ ( Broeker 1998a )  ) .",1,0
+9231,"Not only do all linguistic theories refer to some reformulation of the traditional notion of valency ( in the form of  equation -grid , subcategorization list , argument list , or extended domain of locality ) ; there is a growing number of parsers based on binary relations between words  ( Eisner 1997  ,  Maruyama 1990 )  .",1,0
+9232,"Not only do all linguistic theories refer to some reformulation of the traditional notion of valency ( in the form of  equation -grid , subcategorization list , argument list , or extended domain of locality ) ; there is a growing number of parsers based on binary relations between words  ( Eisner 1997  ,  Maruyama 1990 )  .",1,0
+9233,"Given this interest in the valency concept , and the fact that word order is one of the main difference between phrase-structure based approaches ( henceforth PSG ) and dependency grammar ( DG ) , it is valid to ask whether DG can capture word order phenomena without recourse to phrasal nodes , traces , slashed categories , etc. A very early result on the weak generative equivalence of context-free grammars and DGs suggested that DGs are incapable of describing surface word order  ( Gaifman 1965 )  .",1,0
+9234,This result has recently been critizised to apply only to impoverished DGs which do not properly represent formally the expressivity of contemporary DG variants  ( Neuhaus and Broeker 1997 )  .,1,0
+9235,"Our position will be that dependency relations are motivated semantically  ( Tesniere 1959 )  , and need not be projective ( i.e. , may cross if projected onto the surface ordering ) .",1,0
+9236,"A very brief characterization of DG is that it recognizes only lexical , not phrasal nodes , which are linked by directed , typed , binary relations to form a dependency tree  ( Tesniere 1959  ,  Hudson 1993 )  .",1,0
+9237,"A very brief characterization of DG is that it recognizes only lexical , not phrasal nodes , which are linked by directed , typed , binary relations to form a dependency tree  ( Tesniere 1959  ,  Hudson 1993 )  .",1,0
+9238,"( Sgall et al. 1986 )  assumes a language-independent underlying order , which is represented as a projective dependency tree .",1,0
+9239,"Recently ,  ( Kruijff 1997 )  has given a categorial-style formulation of these ordering rules .",1,0
+9240,( Melcuk 1988 )  assumes seven strata of representation .,1,0
+9241,"These rules have not yet been formally specified  ( Melcuk and Pertsov 1987 )  , p.187f .",1,0
+9242,"( WG ,  ( Hudson 1990 )  ) is based on general graphs instead of trees .",1,0
+9243,"( DUG ,  ( Hellwig 1986 )  ) defines a tree-like data structure for the representation of syntactic analyses .",1,0
+9244,"( McCord 1990 )  employs a number of rule types , some of which are exclusively concerned with precedence .",1,0
+9245,"From a descriptive viewpoint , the syntactic construction is often cited to determine the possibility and scope of discontinuities  ( Bhatt 1990  ,  Matthews 1981 )  .",1,0
+9246,"From a descriptive viewpoint , the syntactic construction is often cited to determine the possibility and scope of discontinuities  ( Bhatt 1990  ,  Matthews 1981 )  .",1,0
+9247,"In PS - based accounts , the construction is represented by phrasal categories , and extraction is limited by bounding nodes ( e.g. ,  ( Haegeman 1994  ,  Becker et al. 1991 )  ) .",1,0
+9248,"In PS - based accounts , the construction is represented by phrasal categories , and extraction is limited by bounding nodes ( e.g. ,  ( Haegeman 1994  ,  Becker et al. 1991 )  ) .",1,0
+9249,It is based on modal logic and owes much to work of  ( Blackburn 1994 )  .,0,1
+9250,"Additionally , we require for a dependency structure four more conditions : ( 1 ) Each word w is contained in exactly one of the domains from  equation  , ( 2 ) all domains in  equation  are pairwise disjoint , ( 3 ) each word ( except wr ) is contained in at least two domains , one of which is associated with a ( transitive ) head , and ( 4 ) the ( partial ) ordering of domains ( as described by  equation  ) is consistent with the precedence of the words contained in the domains ( see  ( Broeker 1997 )  for more details ) .",0,1
+9251,"A more elaborate definition of dependency structures and defines two more dimensions , a feature graph mapped off the dependency tree much like the proposal of  ( Blackburn 1994 )  , and a conceptual representation based on terminological logic , linking content words with reference objects and dependencies with conceptual roles .",0,1
+9252,"Other lexicalized grammars collapse syntactic and ordering information and are forced to represent ordering alternatives by lexical ambiguity , most notable L-TAG  ( Schabes et al. 1988 )  and some versions of CG  ( Hepple 1994 )  .",1,0
+9253,"Other lexicalized grammars collapse syntactic and ordering information and are forced to represent ordering alternatives by lexical ambiguity , most notable L-TAG  ( Schabes et al. 1988 )  and some versions of CG  ( Hepple 1994 )  .",1,0
+9254,"This property is shared by the proposal of  ( Reape 1993 )  to associate HPSG signs with sequences of constituents , also called word order domains .",1,0
+9255,"We may also compare our approach with the projection architecture of LFG  ( Kaplan and Bresnan 1982  ,  Kaplan 1995 )  .",1,0
+9256,"We may also compare our approach with the projection architecture of LFG  ( Kaplan and Bresnan 1982  ,  Kaplan 1995 )  .",1,0
+9257,"An important benefit is that the proposal is lexicalized without reverting to lexical ambiguity to represent order variation , thus profiting even more from the efficiency considerations discussed by  ( Schabes et al. 1988 )  .",1,0
+9258,( Neuhaus and Broeker 1997 )  have shown that recognition and parsing of such grammars is -complete .,1,0
+9259,A parser operating on the model structures is described in  ( Hahn et al. 1997 )  .,1,0
+9260,"
+ ( Joshi 1988 )  and 
+ ( Joshi and Schabes 1992 )  are good introductions to the formalism and its linguistic relevance .",1,0
+9261,"
+ ( Joshi 1988 )  and 
+ ( Joshi and Schabes 1992 )  are good introductions to the formalism and its linguistic relevance .",1,0
+9262,"TAGs have been shown to have relations with both phrase-structure grammars and dependency grammars 
+ ( Rambow and Joshi 1995 )  and can handle ( non-projective ) long distance dependencies .",1,0
+9263,"Existing EM based estimation algorithms for probabilistic TAGs assume that the property of consistency holds 
+ ( Schabes 1992 )  .",1,0
+9264,"Techniques used in this paper can be used to determine consistency for other probability models based on TAGs 
+ ( Carroll and Weir 1997 )  .",1,0
+9265,"An example of such a function  equation  is a simple Poisson distribution (  CREF  ) , which in fact was also used as the counterexample in 
+ ( Booth and Thompson 1973 )  for CFGs , since CFGs also have the constant growth property .",1,0
+9266,"By construction we have ensured that the following theorem from 
+ ( Booth and Thompson 1973 )  applies to probabilistic TAGs .",1,0
+9267,"A formal justification for this claim is given in the next section by showing a reduction of the TAG derivation process to a multitype Galton - Watson branching process 
+ ( Harris 1963 )  .",1,0
+9268,"
+ ( Booth and Thompson 1973  , 
+ Soule 1974 )  ",1,0
+9269,"
+ ( Booth and Thompson 1973  , 
+ Soule 1974 )  ",1,0
+9270,"Computing consistency can bypass the computation of the eigenvalues for  equation  by using the following theorem by Gersgorin ( see 
+ ( Horn and Johnson 1985  , 
+ Wetherell 1980 )  ) .",1,0
+9271,"Computing consistency can bypass the computation of the eigenvalues for  equation  by using the following theorem by Gersgorin ( see 
+ ( Horn and Johnson 1985  , 
+ Wetherell 1980 )  ) .",1,0
+9272,"( Gersgorin , see 
+ ( Horn and Johnson 1985  , 
+ Wetherell 1980 )  ) ",1,0
+9273,"( Gersgorin , see 
+ ( Horn and Johnson 1985  , 
+ Wetherell 1980 )  ) ",1,0
+9274,"A Galton - Watson branching process 
+ ( Harris 1963 )  is simply a model of processes that have objects that can produce additional objects of the same kind , i.e. recursive processes , with certain properties .",1,0
+9275,"We can rewrite the level generation functions in terms of the stochastic expectation matrix  equation  , where each element mi , jof  equation  is computed as follows ( cf. 
+ ( Booth and Thompson 1973 )  ) .",0,1
+9276,"Using this it was shown in 
+ ( Chaudhari et al. 1983 )  and 
+ ( Sanchez and Benede 1997 )  that a single step of the inside-outside algorithm implies consistency for a probabilistic CFG .",1,0
+9277,"Using this it was shown in 
+ ( Chaudhari et al. 1983 )  and 
+ ( Sanchez and Benede 1997 )  that a single step of the inside-outside algorithm implies consistency for a probabilistic CFG .",1,0
+9278,"Notable exceptions include 
+ ( Zernik 1989  , 
+ Erbach 1990  , 
+ Hastings and Lytinen 1994 )  .",1,0
+9279,"Notable exceptions include 
+ ( Zernik 1989  , 
+ Erbach 1990  , 
+ Hastings and Lytinen 1994 )  .",1,0
+9280,"See 
+ ( Zernik 1989 )  for an introduction to the general issues involved .",1,0
+9281,"It focusses on extracting linguistic properties , as compared to e.g. general concept learning 
+ ( Hahn et al. 1996 )  .",1,0
+9282,"Unlike 
+ ( Erbach 1990 )  , however , it is not confined to simple morpho-syntactic information but can also handle selectional restrictions , semantic types and argument structure .",1,0
+9283,"Finally , while statistical approaches like 
+ ( Brent 1991 )  can gather e.g. valence information from large corpora , we are more interested in full grammatical processing of individual sentences to maximally exploit each context .",1,0
+9284,"The system was implemented using MicroCUF , a simplified version of the CUF typed unification formalism 
+ ( Dorna 1993 )  that we implemented in SICStus Prolog .",0,1
+9285,"9 
+ ( Pollard and Sag 1994 ) 
+ ( Manning and Sag 1995 )  ' s proposal for an independent level of argument structure and 
+ ( Bouma 1997 )  ' s use of argument structure to eliminate procedural lexical rules in favour of relational constraints .",0,1
+9286,"9 
+ ( Pollard and Sag 1994 ) 
+ ( Manning and Sag 1995 )  ' s proposal for an independent level of argument structure and 
+ ( Bouma 1997 )  ' s use of argument structure to eliminate procedural lexical rules in favour of relational constraints .",0,1
+9287,"Our elaborate ontology of semantic types - useful for non-trivial acquisition of selectional restrictions and nominal sorts - was derived from a systematic corpus study of a biological domain 154 - 188 
+ ( Knodel 1980 )  .",0,1
+9288,"Here the work of 
+ ( Li and Abe 1995 )  who use the MDL principle to generalize over the slots of observed case frames might prove fruitful .",0,1
+9289,"( 2 ) performance figures are too often calculated from only a single or very small number of trials , though average results from multiple trials are crucial to obtain reliable estimations of accuracy 
+ ( Mooney 1996 )  , ",1,0
+9290,"( 3 ) testing experiments are usually done on corpora with the same characteristics as the training data -usually a small fresh portion of the training corpus- but no serious attempts have been done in order to determine the reliability of the results when moving from one domain to another 
+ ( Krovetz 1997 )  , and ",1,0
+9291,"Although 
+ ( Church 1992 )  questions the concept of correct analysis , 
+ ( Samuelsson and Voutilainen 1997 )  establish that there exists a -statistically significant- absolute correct disambiguation , respect to which the error rates of either the tagger or the test corpus can be computed .",1,0
+9292,"Although 
+ ( Church 1992 )  questions the concept of correct analysis , 
+ ( Samuelsson and Voutilainen 1997 )  establish that there exists a -statistically significant- absolute correct disambiguation , respect to which the error rates of either the tagger or the test corpus can be computed .",1,0
+9293,"The following real example has been extracted from 
+ ( Marquez and Padro 1997 )  : The tagger T1 uses only bigram information and has an observed performance on ambiguous words  equation  (  equation  overall ) .",0,1
+9294,"Several methods are known that can parse languages generated by Tree Adjoining Grammars ( TAGs ) in worst case time  equation  , where n is the length of the input string ( see  ( Schabes and Joshi 1991 )  and references therein ) .",1,0
+9295,"Although asymptotically faster methods can be constructed , as discussed in  ( Rajasekaran and Yooseph 1995 )  , these methods are not of practical interest , due to large hidden constants .",1,0
+9296,"More generally , in  ( Satta 1994 )  it has been argued that methods for TAG parsing running in time asymptotically faster than  equation  are unlikely to have small hidden constants .",1,0
+9297,A careful inspection of the proof provided in  ( Satta 1994 )  reveals that the source of the claimed computational complexity of TAG parsing resides in the fact that auxiliary trees can get adjunctions at ( at least ) two distinct nodes in their spine ( the path connecting the root and the foot nodes ) .,1,0
+9298,"Several restrictions on the adjunction operation for TAG have been proposed in the literature  ( Schabes and Waters 1993  ,  Schabes and Waters 1995 )   ( Rogers 1994 )  .",1,0
+9299,"Several restrictions on the adjunction operation for TAG have been proposed in the literature  ( Schabes and Waters 1993  ,  Schabes and Waters 1995 )   ( Rogers 1994 )  .",1,0
+9300,"Several restrictions on the adjunction operation for TAG have been proposed in the literature  ( Schabes and Waters 1993  ,  Schabes and Waters 1995 )   ( Rogers 1994 )  .",1,0
+9301,"The reader is referred to  ( Joshi 1985 )  for the definitions of tree adjunction , tree substitution , and language derived by a TAG .",1,0
+9302,"Our restriction is fundamentally different from those in  ( Schabes and Waters 1993  ,  Schabes and Waters 1995 )  and  ( Rogers 1994 )  , in that we allow wrapping auxiliary trees to nest inside each other an unbounded number of times , so long as they only adjoin at one place in each others ' spines .",1,0
+9303,"Our restriction is fundamentally different from those in  ( Schabes and Waters 1993  ,  Schabes and Waters 1995 )  and  ( Rogers 1994 )  , in that we allow wrapping auxiliary trees to nest inside each other an unbounded number of times , so long as they only adjoin at one place in each others ' spines .",1,0
+9304,"Our restriction is fundamentally different from those in  ( Schabes and Waters 1993  ,  Schabes and Waters 1995 )  and  ( Rogers 1994 )  , in that we allow wrapping auxiliary trees to nest inside each other an unbounded number of times , so long as they only adjoin at one place in each others ' spines .",1,0
+9305,"Rogers (0000)  , in contrast , restricts the nesting of wrapping auxiliaries to a number of times bounded by the size of the grammar , and  Schabes and Waters (0000)  forbid wrapping auxiliaries altogether , at any node in the grammar .",1,0
+9306,"Rogers (0000)  , in contrast , restricts the nesting of wrapping auxiliaries to a number of times bounded by the size of the grammar , and  Schabes and Waters (0000)  forbid wrapping auxiliaries altogether , at any node in the grammar .",1,0
+9307,"Following  ( Shieber et al. 1995 )  , we specify the algorithm using inference rules .",0,1
+9308,"We begin by introducing the distinction between athematic auxiliary trees and complement auxiliary trees  ( Kroch 1989 )  , which are meant to exhaustively characterize the auxiliary trees used in any natural language TAG grammar .",1,0
+9309,"This is justified in order to prevent projections of Y0 from receiving more than one theta role from complement adjuncts , which would violate the underlying theta criterion in Government and Binding Theory  ( Chomsky 1981 )  .",1,0
+9310,"We also assume that an auxiliary tree can not have complement adjunction sites on its spine projecting from lexical heads other than Y0 , in order to preserve the minimality of elementary trees  ( Kroch 1989  ,  Frank 1992 )  .",1,0
+9311,"We also assume that an auxiliary tree can not have complement adjunction sites on its spine projecting from lexical heads other than Y0 , in order to preserve the minimality of elementary trees  ( Kroch 1989  ,  Frank 1992 )  .",1,0
+9312,"In contrast to the formalisms of Schabes and Waters  ( Schabes and Waters 1993  ,  Schabes and Waters 1995 )  , our restriction allows wrapping complement auxiliaries as in Figure  CREF   ( Schabes and Waters 1995 )  .",1,0
+9313,"In contrast to the formalisms of Schabes and Waters  ( Schabes and Waters 1993  ,  Schabes and Waters 1995 )  , our restriction allows wrapping complement auxiliaries as in Figure  CREF   ( Schabes and Waters 1995 )  .",1,0
+9314,"In contrast to the formalisms of Schabes and Waters  ( Schabes and Waters 1993  ,  Schabes and Waters 1995 )  , our restriction allows wrapping complement auxiliaries as in Figure  CREF   ( Schabes and Waters 1995 )  .",1,0
+9315,"Although it is difficult to find examples in English which are excluded by Rogers' regular form restriction  ( Rogers 1994 )  , we can cite verb-raised complement auxiliary trees in Dutch as in Figure  CREF   ( Kroch and Santorini 1991 )  .",1,0
+9316,"Although it is difficult to find examples in English which are excluded by Rogers' regular form restriction  ( Rogers 1994 )  , we can cite verb-raised complement auxiliary trees in Dutch as in Figure  CREF   ( Kroch and Santorini 1991 )  .",1,0
+9317,"Trees with this structure may adjoin into each others ' internal spine nodes an unbounded number of times , in violation of  Rogers (0000)  ' definition of regular form adjunction , but within our criteria of wrapping adjunction at only one node on the spine .",1,0
+9318,"Recent work views lexical choice as the process of mapping from a set of concepts ( in some representation of knowledge ) to a word or phrase 
+ ( Elhadad 1992  , 
+ Stede 1996 )  .",1,0
+9319,"Recent work views lexical choice as the process of mapping from a set of concepts ( in some representation of knowledge ) to a word or phrase 
+ ( Elhadad 1992  , 
+ Stede 1996 )  .",1,0
+9320,"Knowledge - based approaches to representing the potentially subtle differences between synonyms have suffered from a serious lexical acquisition bottleneck 
+ ( DiMarco et al. 1993  , 
+ Hirst 1995 )  .",1,0
+9321,"Knowledge - based approaches to representing the potentially subtle differences between synonyms have suffered from a serious lexical acquisition bottleneck 
+ ( DiMarco et al. 1993  , 
+ Hirst 1995 )  .",1,0
+9322,"Statistical approaches , which have sought to explicitly represent differences between pairs of synonyms with respect to their occurrence with other specific words 
+ ( Church et al. 1994 )  , are inefficient in time and space .",1,0
+9323,"Evidence - based models represent context as a set of features , say words , that are observed to co-occur with , and thereby predict , a word 
+ ( Yarowsky 1992  , 
+ Golding and Schabes 1996  , 
+ Karow and Edelman 1996  , 
+ Ng and Lee 1996 )  .",1,0
+9324,"Evidence - based models represent context as a set of features , say words , that are observed to co-occur with , and thereby predict , a word 
+ ( Yarowsky 1992  , 
+ Golding and Schabes 1996  , 
+ Karow and Edelman 1996  , 
+ Ng and Lee 1996 )  .",1,0
+9325,"Evidence - based models represent context as a set of features , say words , that are observed to co-occur with , and thereby predict , a word 
+ ( Yarowsky 1992  , 
+ Golding and Schabes 1996  , 
+ Karow and Edelman 1996  , 
+ Ng and Lee 1996 )  .",1,0
+9326,"Evidence - based models represent context as a set of features , say words , that are observed to co-occur with , and thereby predict , a word 
+ ( Yarowsky 1992  , 
+ Golding and Schabes 1996  , 
+ Karow and Edelman 1996  , 
+ Ng and Lee 1996 )  .",1,0
+9327,"We use the intersection of two well-known measures of significance , mutual information scores and t-scores 
+ ( Church et al. 1994 )  , to determine if a ( first-order ) co-occurrence relation should be included in the network ; however , we use just the t-scores in computing significance scores for all the relations .",0,1
+9328,"The Penn Treebank ( PTB )  ( Marcus et al. 1994 )  has been used for a rather simple approach to deriving large grammars automatically : one where the grammar rules are simply ` read off ' the parse trees in the corpus , with each local subtree providing the left and right hand sides of a rule .",1,0
+9329,Charniak (0000)   ( Charniak 1996 )  reports precision and recall figures of around 80% for a parser employing such a grammar .,1,0
+9330,Our approach can be generalised in terms of Data - Oriented Parsing ( DOP ) methods ( see  ( Bonnema et al. 1997 )  ) with the tree depth of 1 .,1,0
+9331,"However , the number of trees produced with a general DOP method is so large that  Bonnema (0000)   ( Bonnema et al. 1997 )  has to resort to restricting the tree depth , using a very domain-specific corpus such as ATIS or OVIS , and parsing very short sentences of average length 4.74 words .",1,0
+9332,"Also , by partially lexicalising the rule extraction process ( i.e. , by using some more frequent words as well as the part-of-speech tags ) , we may be able to achieve parsing performance similar to the best results in the field obtained in  ( Collins 1996 )  .",1,0
+9333,"We had hoped that some approach to a limit would be seen using PTB II  ( Marcus et al. 1994 )  , which larger and more consistent for annotation than PTB I .",0,1
+9334,"However , the radical incompleteness of grammar that this alternative implies seems incompatible with the promising parsing results that  Charniak (0000)  reports  ( Charniak 1996 )  .",1,0
+9335,"Our method is similar to that used by  Shirai (0000)   ( Shirai et al. 1995 )  , but the principal differences are as follows .",1,0
+9336,Johnson (0000)   ( Johnson 1972 )  has shown that such rewrite rules are equivalent to finite state transducers in the special case that they are not allowed to rewrite their own output .,1,0
+9337,An algorithm for compilation into transducers was provided by  ( Kaplan and Kay 1994 )  .,0,1
+9338,"Improvements and extensions to this algorithm have been provided by  ( Karttunen 1995  ,  Karttunen 1997  ,  Karttunen 1996a )  and  ( Mohri and Sproat 1996 )  .",1,0
+9339,"Improvements and extensions to this algorithm have been provided by  ( Karttunen 1995  ,  Karttunen 1997  ,  Karttunen 1996a )  and  ( Mohri and Sproat 1996 )  .",1,0
+9340,"Improvements and extensions to this algorithm have been provided by  ( Karttunen 1995  ,  Karttunen 1997  ,  Karttunen 1996a )  and  ( Mohri and Sproat 1996 )  .",1,0
+9341,"Improvements and extensions to this algorithm have been provided by  ( Karttunen 1995  ,  Karttunen 1997  ,  Karttunen 1996a )  and  ( Mohri and Sproat 1996 )  .",1,0
+9342,"Backreferencing has been implicit in previous research , such as in the `` batch rules '' of  ( Kaplan and Kay 1994 )  , bracketing transducers for finite-state parsing  ( Karttunen 1996a )  , and the `` LocalExtension '' operation of  ( Roche and Schabes 1997 )  .",1,0
+9343,"Backreferencing has been implicit in previous research , such as in the `` batch rules '' of  ( Kaplan and Kay 1994 )  , bracketing transducers for finite-state parsing  ( Karttunen 1996a )  , and the `` LocalExtension '' operation of  ( Roche and Schabes 1997 )  .",1,0
+9344,"Backreferencing has been implicit in previous research , such as in the `` batch rules '' of  ( Kaplan and Kay 1994 )  , bracketing transducers for finite-state parsing  ( Karttunen 1996a )  , and the `` LocalExtension '' operation of  ( Roche and Schabes 1997 )  .",1,0
+9345,"Backreferencing is widely used in editors , scripting languages and other tools employing regular expressions  ( Friedl 1997 )  .",1,0
+9346,"For NLP finite state calculi  ( Karttunen et al. 1996  ,  van Noord 1997 )  this is unacceptable .",1,0
+9347,Friedl (0000)   ( Friedl 1997 )  ( p .,1,0
+9348,"In the following section , we initially concentrate on the simple case in (  CREF  ) and show how (  CREF  ) may be compiled assuming left-to-right processing along with the overall longest match strategy described by  ( Karttunen 1996a )  .",0,1
+9349,"The major components of the algorithm are not new , but straightforward modifications of components presented in  ( Karttunen 1996a )  and  ( Mohri and Sproat 1996 )  .",0,1
+9350,"The major components of the algorithm are not new , but straightforward modifications of components presented in  ( Karttunen 1996a )  and  ( Mohri and Sproat 1996 )  .",0,1
+9351,"For instance , the lenient_composition operator  ( Karttunen 1998 )  is defined by : macro ( priority_union ( Q , R ) , { Q , ~domain ( Q ) o R } ) .",1,0
+9352,This functionality has been used in  ( van Noord and Gerdemann 1999 )  to provide an implementation of the algorithm in  ( Mohri and Sproat 1996 )  .,1,0
+9353,Previous algorithms for compiling rewrite rules into transducers have followed  ( Kaplan and Kay 1994 )  by introducing special marker symbols ( markers ) into strings in order to mark off candidate regions for replacement .,1,0
+9354,"This problem was recognized by  ( Karttunen 1996 )  , whose algorithm starts with a filter transducer which filters out any string containing a marker .",1,0
+9355,"Before describing the algorithm , it will be helpful to have at our disposal a few general tools , most of which were described already in  ( Kaplan and Kay 1994 )  .",0,1
+9356,The names of these steps are mostly derived from  ( Karttunen 1995 )  and  ( Mohri and Sproat 1996 )  even though the transductions involved are not exactly the same .,1,0
+9357,The names of these steps are mostly derived from  ( Karttunen 1995 )  and  ( Mohri and Sproat 1996 )  even though the transductions involved are not exactly the same .,1,0
+9358,"Suppose ( as in  ( Friedl 1997 )  ) , we want to match the following list of recognizers against the string topological and insert a marker in each boundary position .",1,0
+9359,One particularly interesting example where backreferences are essential is cascaded deterministic ( longest match ) finite state parsing as described for example in  Abney (0000)   ( Abney 1990 )  and various papers in  ( Roche and Schabes 1997a )  .,1,0
+9360,One particularly interesting example where backreferences are essential is cascaded deterministic ( longest match ) finite state parsing as described for example in  Abney (0000)   ( Abney 1990 )  and various papers in  ( Roche and Schabes 1997a )  .,1,0
+9361,"In that case it will be possible to implement different steps by different strategies , e.g. by deterministic or non-deterministic transducers or bimachines  ( Roche and Schabes 1997b )  .",0,1
+9362,The study is conducted on both a simple Air Travel Information System ( ATIS ) corpus  ( Hemphill et al. 1990 )  and the more complex Wall Street Journal ( WSJ ) corpus  ( Marcus et al. 1993 )  .,0,1
+9363,The study is conducted on both a simple Air Travel Information System ( ATIS ) corpus  ( Hemphill et al. 1990 )  and the more complex Wall Street Journal ( WSJ ) corpus  ( Marcus et al. 1993 )  .,0,1
+9364,"( Charniak 1996 )  , for instance , has shown that a grammar can be easily constructed when the examples are fully labeled parse trees .",1,0
+9365,"On the other hand , if the examples consist of raw sentences with no extra structural information , grammar induction is very difficult , even theoretically impossible  ( Gold 1967 )  .",1,0
+9366,"One could take a greedy approach such as the well-known Inside - Outside re-estimation algorithm  ( Baker 1979 )  , which induces locally optimal grammars by iteratively improving the parameters of the grammar so that the entropy of the training data is minimized .",1,0
+9367,"For even a moderately complex domain such as the ATIS corpus , a grammar trained on data with constituent bracketing information produces much better parses than one trained on completely unmarked raw data  ( Pereira and Schabes 1992 )  .",1,0
+9368,"For finding a good initial parameter set ,  ( Lari and Young 1990 )  suggested first estimating the probabilities with a set of regular grammar rules .",1,0
+9369,"( Briscoe and Waegner 1992 )  argued that one should first hand-design the grammar to encode some linguistic notions and then use the re-estimation procedure to fine-tune the parameters , substituting the cost of hand-labeled training data with that of hand-coded grammar .",1,0
+9370,"In their study of parsing the WSJ ,  ( Schabes et al. 1993 )  have shown that a grammar trained on the Inside - Outside re-estimation algorithm can perform quite well on short simple sentences but falters as the sentence length increases .",1,0
+9371,"To induce a grammar from the sparsely bracketed training data previously described , we use a variant of the Inside - Outside re-estimation algorithm proposed by  ( Pereira and Schabes 1992 )  .",0,1
+9372,"The inferred grammars are represented in the Probabilistic Lexicalized Tree Insertion Grammar ( PLTIG ) formalism  ( Schabes and Waters 1993  ,  Hwa 1998a )  , which is lexicalized and context-free equivalent .",0,1
+9373,( Resnik 1993 )  initiated research into the automatic acquisition of semantic selectional restrictions .,1,0
+9374,( Ribas 1994 )  presented an approach which takes into account the syntactic position of the elements whose semantic relation is to be acquired .,1,0
+9375,The basic ideas of our EM - based clustering approach were presented in  ( Knowledge et al. 1995 )  .,0,1
+9376,Our approach contrasts with the merely heuristic and empirical justification of similarity-based approaches to clustering  ( Dagan et al. 1998 )  for which so far no clear probabilistic interpretation has been given .,1,0
+9377,The probability model we use can be found earlier in  ( Pereira et al. 1993 )  .,1,0
+9378,Approaches to probabilistic clustering similar to ours were presented recently in  ( Saul and Pereira 1997 )  and  ( Hofmann and Puzicha 1998 )  .,1,0
+9379,Approaches to probabilistic clustering similar to ours were presented recently in  ( Saul and Pereira 1997 )  and  ( Hofmann and Puzicha 1998 )  .,1,0
+9380,"In the framework of the EM algorithm  ( Dempster et al. 1977 )  , we can formalize clustering as an estimation problem for a latent class ( LC ) model as follows .",0,1
+9381,"This auxiliary function is iteratively maximized as a function of  equation  ( M-step ) , where each iteration is defined by the map  equation Note that our application is an instance of the EM - algorithm for context-free models  ( Baum et al. 1970 )  , from which the following particularly simple reestimation formulae can be derived .",0,1
+9382,"As shown by  ( Baum et al. 1970 )  , these expectations can be calculated efficiently using dynamic programming techniques .",1,0
+9383,"We evaluated our clustering models on a pseudo-disambiguation task similar to that performed in  ( Pereira et al. 1993 )  , but differing in detail .",1,0
+9384,"When compared to  ( Levin 1993 )  ' s 48 top-level verb classes , we found an agreement of our classification with her class of `` verbs of changes of state '' except for the last three verbs in the list in Fig.  CREF  which is sorted by probability of the class label .",1,0
+9385,We compared the German example of scalar motion verbs to the linguistic classification of verbs given by  ( Schuhmacher 1986 )  and found an agreement of our classification with the class of `` einfache  equation  ; nderungsverben '' ( simple verbs of change ) except for the verbs anwachsen ( increase ) and stagnieren ( stagnate ) which were not classified there at all .,1,0
+9386,For references and recent discussion of this kind of theory see  ( Hale and Keyser 1993 )  and  ( Kural 1996 )  .,1,0
+9387,For references and recent discussion of this kind of theory see  ( Hale and Keyser 1993 )  and  ( Kural 1996 )  .,1,0
+9388,Such representations are semantically inadequate for reasons given in philosophical critiques of decomposed linguistic representations ; see  ( Fodor 1998 )  for recent discussion .,1,0
+9389,"Fodor (0000)  ' s arguments , which are based on the very limited degree of genuine interdefinability of lexical items and on Putnam's arguments for contextual determination of lexical meaning , indicate that the number of basic concepts has the order of magnitude of the lexicon itself .",1,0
+9390,"( Charniak 1995 )  and  ( Carroll and Rooth 1998 )  present head-lexicalized probabilistic context free grammar formalisms , and show that they can effectively be applied in inside-outside estimation of syntactic language models for English , the parameterization of which encodes lexicalized rule probabilities and syntactically conditioned word-word bigram collocates .",1,0
+9391,"Tokens are automatically annotated with a list of part-of-speech ( PoS ) tags using a computational morphological analyser based on finite-state technology (  ( Karttunen et al. 1994  ,  Schiller and Stoeckert 1995 )  ) .",0,1
+9392,"Tokens are automatically annotated with a list of part-of-speech ( PoS ) tags using a computational morphological analyser based on finite-state technology (  ( Karttunen et al. 1994  ,  Schiller and Stoeckert 1995 )  ) .",0,1
+9393,For noun phrases we employ Abney ' s chunk grammar organization  ( Abney 1996 )  .,0,1
+9394,See  ( C+W )  or  ( Charniak 1995 )  for an explanation of how such parameters define a probabilistic weighting of trees .,1,0
+9395,"Despite our use of a manually developed grammar that does not have to be pruned of superfluous rules like an automatically generated grammar , the lexicalized model is notably better when preceded by unlexicalized training ( see also  ( Ersan and Charniak 1995 )  for related observations ) .",1,0
+9396,"For extraction of a maximal probability parse in unlexicalized training , we used Schmid ' s lopar parser  ( Schmid 1999 )  .",0,1
+9397,( Skut and Brants 1998 )  report 84.4% recall and 84.2% for NP and PP chunking without case labels .,1,0
+9398,( Abney 1991 )  is one of the first who proposed to split up parsing into several cascades .,1,0
+9399,"( Grefenstette 1996 )  describes a cascade of finite-state transducers , which first finds noun and verb groups , then their heads , and finally syntactic functions .",1,0
+9400,( Brants and Skut 1998 )  describe a partially automated annotation tool which constructs a complete parse of a sentence by recursively adding levels to the tree .,1,0
+9401,"( Collins 1997  ,  ( Ratnaparkhi 1997 )  use cascaded processing for full parsing with good results .",1,0
+9402,"( Collins 1997  ,  ( Ratnaparkhi 1997 )  use cascaded processing for full parsing with good results .",1,0
+9403,( Argamon et al. 1998 )  applied Memory - Based Sequence Learning ( MBSL ) to NP chunking and subject/object identification .,1,0
+9404,"For more references and information about these algorithms we refer to  ( Bosch 1998  ,  Daelemans et al. 1999b )  .",1,0
+9405,"For other memory-based approaches to parsing , see  ( Bod 1992 )  and  ( Sekine 1998 )  .",1,0
+9406,"For other memory-based approaches to parsing , see  ( Bod 1992 )  and  ( Sekine 1998 )  .",1,0
+9407,"Chunks are non-recursive , non-overlapping constituent parts of sentences ( see  ( Abney 1991 )  ) .",1,0
+9408,The data for all our experiments was extracted from the Penn Treebank II Wall Street Journal ( WSJ ) corpus  ( Marcus et al. 1993 )  .,0,1
+9409,"For convenient comparisons of only one value , we also list the  equation  value  ( Rijsbergen 1979 )  :  equation  , with  equation  ",0,1
+9410,"( Ramshaw and Marcus 1995 )  first assigned a chunk tag to each word in the sentence : I for inside a chunk , O for outside a chunk , and B for inside a chunk , but the preceding word is in another chunk .",0,1
+9411,"( Argamon et al. 1998 )  report  equation  for subject and object identification of respectively 86.5% and 83.0% , compared to 81.8% and 81.0% in this paper .",1,0
+9412,"Note however that  ( Argamon et al. 1998 )  do not identify the head of subjects , subjects in embedded clauses , or subjects and objects related to the verb only through a trace , which makes their task easier .",1,0
+9413,( Ramshaw and Marcus 1995 )  describe an error-driven transformation-based learning ( TBL ) method for finding NP chunks in texts .,1,0
+9414,An example is the representation used in  ( Ratnaparkhi 1998 )  where all the chunk-initial words receive the same start tag ( analogous to the B tag ) while the remainder of the words in the chunk are paired with a different tag .,1,0
+9415,In the  Ratnaparkhi (0000)  representation equal noun phrases receive the same tag sequence regardless of the context in which they appear .,1,0
+9416,We have compared four complete and three partial data representation formats for the baseNP recognition task presented in  ( Ramshaw and Marcus 1995 )  .,1,0
+9417,"In the version of the algorithm that we have used , IB1-IG , the distances between feature representations are computed as the weighted sum of distances between individual features  ( Bosch 1998 )  .",0,1
+9418,Details of the algorithm can be found in  ( Bosch 1998 )  .,1,0
+9419,In  ( Ramshaw and Marcus 1995 )  a set of transformational rules is used for modifying the classification of words .,0,1
+9420,We have used the baseNP data presented in  ( Ramshaw and Marcus 1995 )  .,0,1
+9421,The chunking classification was made by  ( Ramshaw and Marcus 1995 )  based on the parsing information in the WSJ corpus .,1,0
+9422,We will follow  ( Argamon et al. 1998 )  and use a combination of the precision and recall rates : F  equation  = ( 2*precision*recall ) / ( precision+recall ) .,0,1
+9423,This algorithm standardly uses the single training item closest to the test i.e. However  ( Daelemans et al. 1999 )  report that for baseNP recognition better results can be obtained by making the algorithm consider the classification values of the three closest training items .,1,0
+9424,We have used the optimal experiment configurations that we had obtained from the fourth experiment series for processing the complete  ( Ramshaw and Marcus 1995 )  data set .,0,1
+9425,Again the best result was obtained with IOB1 ( F  equation =92.37 ) which is an improvement of the best reported F  equation  rate for this data set (  ( Ramshaw and Marcus 1995 )  : 92.03 ) .,1,0
+9426,We would like to apply our learning approach to the large data set mentioned in  ( Ramshaw and Marcus 1995 )  : Wall Street Journal corpus sections 2 - 21 as training material and section 0 as test material .,0,1
+9427,This time the chunker achieved a F  equation  score of 93.81 which is half a point better than the results obtained by  ( Ramshaw and Marcus 1995 )  : 93.3 ( other chunker rates for this data : accuracy : 98.04% ; precision : 93.71% ; recall : 93.90% ) .,1,0
+9428,The concept of chunking was introduced by Abney in  ( Abney 1991 )  .,1,0
+9429,Abney (0000)  obtained support for such a chunking stage from psycholinguistic literature .,1,0
+9430,Ramshaw and Marcus used transformation-based learning ( TBL ) for developing two chunkers  ( Ramshaw and Marcus 1995 )  .,1,0
+9431,Ramshaw and Marcus (0000)  approached the chunking task as a tagging problem .,1,0
+9432,( Ramshaw and Marcus 1995 )  shows that baseNP recognition ( F  equation =92.0 ) is easier than finding both NP and VP chunks ( F  equation =88.1 ) and that increasing the size of the training data increases the performance on the test set .,1,0
+9433,The work by  Ramshaw and Marcus (0000)  has inspired three other groups to build chunking algorithms .,1,0
+9434,( Argamon et al. 1998 )  introduce Memory - Based Sequence Learning and use it for different chunking experiments .,1,0
+9435,It performed slightly worse on baseNP recognition than the  ( Ramshaw and Marcus 1995 )  experiments ( F  equation =91.6 ) .,1,0
+9436,( Cardie and Pierce 1998 )  uses a related method but they only store POS tag sequences forming complete baseNPs .,1,0
+9437,The algorithm is very fast and it reaches the same performance as  ( Argamon et al. 1998 )  ( F  equation =91.6 ) .,1,0
+9438,( Daelemans et al. 1999 )  uses cascaded MBL ( IB1-IG ) in a similar way for several tasks among which baseNP recognition .,1,0
+9439,"However , they use the  ( Ramshaw and Marcus 1995 )  data set in a different training-test division ( 10 - fold cross validation ) which makes it difficult to compare their results with others .",1,0
+9440,"The IOB1 format , introduced in  ( Ramshaw and Marcus 1995 )  , consistently came out as the best format .",1,0
+9441,The IB1-IG algorithm has been able to improve the best reported F  equation  rates for a standard data set ( 92.37 versus  ( Ramshaw and Marcus 1995 )  ' s 92.03 ) .,1,0
+9442,"Our research is partly motivated by the `` NACSIS '' test collection for IR systems  ( Kando et al. 1998 )  , which consists of Japanese queries and Japanese / English abstracts extracted from technical papers ( we will elaborate on the NACSIS collection in Section  CREF  ) .",0,1
+9443,"However , Pirkola  ( Pirkola 1998 )  , for example , used a subset of the TREC collection related to health topics , and showed that combination of general and domain specific ( i.e. , medical ) dictionaries improves the CLIR performance obtained with only a general dictionary .",1,0
+9444,"For problem (  CREF  ) , we use `` transliteration ''  ( Chen et al. 1998  ,  Knight and Graehl 1998  ,  Wan and Verspoor 1998 )  .",0,1
+9445,"For problem (  CREF  ) , we use `` transliteration ''  ( Chen et al. 1998  ,  Knight and Graehl 1998  ,  Wan and Verspoor 1998 )  .",0,1
+9446,"For problem (  CREF  ) , we use `` transliteration ''  ( Chen et al. 1998  ,  Knight and Graehl 1998  ,  Wan and Verspoor 1998 )  .",0,1
+9447,"Chen et al. (0000)   ( Chen et al. 1998 )  and Wan and Verspoor  ( Wan and Verspoor 1998 )  proposed English - Chinese transliteration methods relying on the property of the Chinese phonetic system , which cannot be directly applied to transliteration between English and Japanese .",1,0
+9448,"Chen et al. (0000)   ( Chen et al. 1998 )  and Wan and Verspoor  ( Wan and Verspoor 1998 )  proposed English - Chinese transliteration methods relying on the property of the Chinese phonetic system , which cannot be directly applied to transliteration between English and Japanese .",1,0
+9449,"Chen et al. (0000)   ( Chen et al. 1998 )  and Wan and Verspoor  ( Wan and Verspoor 1998 )  proposed English - Chinese transliteration methods relying on the property of the Chinese phonetic system , which cannot be directly applied to transliteration between English and Japanese .",1,0
+9450,Knight and Graehls  ( Knight and Graehl 1998 )  proposed a Japanese - English transliteration method based on the mapping probability between English and Japanese katakana sounds .,1,0
+9451,"The first approach translates queries into the document language  ( Ballesteros and Croft 1998  ,  Carbonell et al. 1997  ,  Davis and Ogden 1997  ,  Fujii and Ishikawa 1999  ,  Hull and Grefenstette 1996  ,  Kando and Aizawa 1998  ,  Okumura et al. 1998 )  , while the second approach translates documents into the query language  ( Gachot et al. 1996  ,  Oard and Hackett 1997 )  .",1,0
+9452,"The first approach translates queries into the document language  ( Ballesteros and Croft 1998  ,  Carbonell et al. 1997  ,  Davis and Ogden 1997  ,  Fujii and Ishikawa 1999  ,  Hull and Grefenstette 1996  ,  Kando and Aizawa 1998  ,  Okumura et al. 1998 )  , while the second approach translates documents into the query language  ( Gachot et al. 1996  ,  Oard and Hackett 1997 )  .",1,0
+9453,"The first approach translates queries into the document language  ( Ballesteros and Croft 1998  ,  Carbonell et al. 1997  ,  Davis and Ogden 1997  ,  Fujii and Ishikawa 1999  ,  Hull and Grefenstette 1996  ,  Kando and Aizawa 1998  ,  Okumura et al. 1998 )  , while the second approach translates documents into the query language  ( Gachot et al. 1996  ,  Oard and Hackett 1997 )  .",1,0
+9454,"The first approach translates queries into the document language  ( Ballesteros and Croft 1998  ,  Carbonell et al. 1997  ,  Davis and Ogden 1997  ,  Fujii and Ishikawa 1999  ,  Hull and Grefenstette 1996  ,  Kando and Aizawa 1998  ,  Okumura et al. 1998 )  , while the second approach translates documents into the query language  ( Gachot et al. 1996  ,  Oard and Hackett 1997 )  .",1,0
+9455,"The first approach translates queries into the document language  ( Ballesteros and Croft 1998  ,  Carbonell et al. 1997  ,  Davis and Ogden 1997  ,  Fujii and Ishikawa 1999  ,  Hull and Grefenstette 1996  ,  Kando and Aizawa 1998  ,  Okumura et al. 1998 )  , while the second approach translates documents into the query language  ( Gachot et al. 1996  ,  Oard and Hackett 1997 )  .",1,0
+9456,"The first approach translates queries into the document language  ( Ballesteros and Croft 1998  ,  Carbonell et al. 1997  ,  Davis and Ogden 1997  ,  Fujii and Ishikawa 1999  ,  Hull and Grefenstette 1996  ,  Kando and Aizawa 1998  ,  Okumura et al. 1998 )  , while the second approach translates documents into the query language  ( Gachot et al. 1996  ,  Oard and Hackett 1997 )  .",1,0
+9457,"The first approach translates queries into the document language  ( Ballesteros and Croft 1998  ,  Carbonell et al. 1997  ,  Davis and Ogden 1997  ,  Fujii and Ishikawa 1999  ,  Hull and Grefenstette 1996  ,  Kando and Aizawa 1998  ,  Okumura et al. 1998 )  , while the second approach translates documents into the query language  ( Gachot et al. 1996  ,  Oard and Hackett 1997 )  .",1,0
+9458,"The third approach transfers both queries and documents into an interlingual representation : bilingual thesaurus classes  ( Mongar 1969  ,  Salton 1970  ,  Sheridan and Ballerini 1996 )  and language-independent vector space models  ( Carbonell et al. 1997  ,  Dumais et al. 1996 )  .",1,0
+9459,"The third approach transfers both queries and documents into an interlingual representation : bilingual thesaurus classes  ( Mongar 1969  ,  Salton 1970  ,  Sheridan and Ballerini 1996 )  and language-independent vector space models  ( Carbonell et al. 1997  ,  Dumais et al. 1996 )  .",1,0
+9460,"The third approach transfers both queries and documents into an interlingual representation : bilingual thesaurus classes  ( Mongar 1969  ,  Salton 1970  ,  Sheridan and Ballerini 1996 )  and language-independent vector space models  ( Carbonell et al. 1997  ,  Dumais et al. 1996 )  .",1,0
+9461,"The third approach transfers both queries and documents into an interlingual representation : bilingual thesaurus classes  ( Mongar 1969  ,  Salton 1970  ,  Sheridan and Ballerini 1996 )  and language-independent vector space models  ( Carbonell et al. 1997  ,  Dumais et al. 1996 )  .",1,0
+9462,"The third approach transfers both queries and documents into an interlingual representation : bilingual thesaurus classes  ( Mongar 1969  ,  Salton 1970  ,  Sheridan and Ballerini 1996 )  and language-independent vector space models  ( Carbonell et al. 1997  ,  Dumais et al. 1996 )  .",1,0
+9463,"In the case where documents are in English , tokenization involves eliminating stopwords and identifying root forms for inflected words , for which we used `` WordNet ''  ( Miller et al. 1993 )  .",0,1
+9464,"On the other hand , we segment Japanese documents into lexical units using the `` ChaSen '' morphological analyzer  ( Matsumoto et al. 1997 )  and discard stopwords .",0,1
+9465,"Finally , the `` IR engine '' computes the similarity between T-query and each document in the surrogates based on the vector space model  ( Salton and McGill 1983 )  , and sorts document according to the similarity , in descending order .",0,1
+9466,"P ( S|T ) and P ( T ) are approximated as in Equation (  CREF  ) , which has commonly been used in the recent statistical NLP research  ( Church and Mercer 1993 )  .",1,0
+9467,"We extracted 59,533 English / Japanese translations consisting of two base words from the EDR technical terminology dictionary , which contains about 120,000 translations related to the information processing field  ( Electronic and Institute 1995 )  , and segment Japanese entries into two parts .",0,1
+9468,"The best path can easily be found by , for example , Dijkstra ' s algorithm  ( Dijkstra 1959 )  .",1,0
+9469,"For the purpose of our evaluation , we used the NACSIS test collection  ( Kando et al. 1998 )  .",0,1
+9470,"For further investigation , let us discuss similar experimental results reported by Kando and Aizawa  ( Kando and Aizawa 1998 )  , where a bilingual dictionary produced from Japanese / English keyword pairs in the NACSIS documents is used for query translation .",1,0
+9471,"It is expected that using a more sophisticated search engine , our CLIR system will achieve a higher performance than that obtained by  Kando and Aizawa (0000)  .",1,0
+9472,"Future work will include the application of automatic word alignment methods  ( Fung 1995  ,  Smadja et al. 1996 )  to enhance the dictionary .",0,1
+9473,"Future work will include the application of automatic word alignment methods  ( Fung 1995  ,  Smadja et al. 1996 )  to enhance the dictionary .",0,1
+9474,"Versions of this simple technique can be found in  ( Dunning 1994 ) and  ( Cavnar and Trenkle 1994 )  , while an interesting practical implementation is described by  ( Adams and Resnik 1997 )  .",1,0
+9475,"Versions of this simple technique can be found in  ( Dunning 1994 ) and  ( Cavnar and Trenkle 1994 )  , while an interesting practical implementation is described by  ( Adams and Resnik 1997 )  .",1,0
+9476,"Versions of this simple technique can be found in  ( Dunning 1994 ) and  ( Cavnar and Trenkle 1994 )  , while an interesting practical implementation is described by  ( Adams and Resnik 1997 )  .",1,0
+9477,"A variant of the problem is considered by  ( Sibun and Spitz 1994 )  , and  ( Sibun and Reynar 1996 )  , who look at it from the point of view of Optical Character Recognition ( OCR ) .",1,0
+9478,"A variant of the problem is considered by  ( Sibun and Spitz 1994 )  , and  ( Sibun and Reynar 1996 )  , who look at it from the point of view of Optical Character Recognition ( OCR ) .",1,0
+9479,"Sibun and Spitz (0000)  then determine the language on the basis of linear discriminant analysis ( LDA ) over word shape tokens , while  Sibun and Reynar (0000)  explore the use of entropy relative to training data for character shape unigrams , bigrams and trigrams .",1,0
+9480,"Sibun and Spitz (0000)  then determine the language on the basis of linear discriminant analysis ( LDA ) over word shape tokens , while  Sibun and Reynar (0000)  explore the use of entropy relative to training data for character shape unigrams , bigrams and trigrams .",1,0
+9481,An evaluation of the technique on data similar to that used by  Sibun and Reynar (0000)  follows .,0,1
+9482,"The input to the algorithm consists of a stream of tokens , such as word shape tokens ( as in  Sibun and Spitz (0000)  , or  Sibun and Reynar (0000)  ) or words themselves .",1,0
+9483,"The input to the algorithm consists of a stream of tokens , such as word shape tokens ( as in  Sibun and Spitz (0000)  , or  Sibun and Reynar (0000)  ) or words themselves .",1,0
+9484,"To evaluate the technique , a test was run using similar data to  Sibun and Reynar (0000)  .",1,0
+9485,"The tests were executed using word shape tokens on the same coding scheme as  Sibun and Reynar (0000)  , and using the words as they appeared in the corpus .",0,1
+9486,The accuracy figures are generally similar to or better than those of  Sibun and Reynar (0000)  .,1,0
+9487,"For example , Serbian , Croatian and Slovenian show several confusions between them , as in  Sibun and Reynar (0000)  ' s results .",1,0
+9488,The classification algorithm described above was originally developed in response to  Sibun and Spitz (0000)  ' s work .,1,0
+9489,"There is another approach to language identification , which has a certain amount in common with ours , described in a patent by Martino and  ( Paulsen 1996 )  .",1,0
+9490,"Martino and  Paulsen (0000)  say they obtain a high degree of confidence in the decision after about 100 words , without saying what the actual success rate is ; we can compare this with around 10 words ( or tokens ) for convergence here .",1,0
+9491,The evaluation of individual language-processing components forming part of larger-scale natural language processing ( NLP ) application systems has recently emerged as an important area of research ( see e.g.  ( Rubio 1998 )  ;  ( Gaizauskas 1998 )  .,1,0
+9492,The evaluation of individual language-processing components forming part of larger-scale natural language processing ( NLP ) application systems has recently emerged as an important area of research ( see e.g.  ( Rubio 1998 )  ;  ( Gaizauskas 1998 )  .,1,0
+9493,"The evaluation technique that is currently the most widely-used was proposed by the Grammar Evaluation Interest Group (  ( Harrison et al. 1991 )  ; see also  ( Grishman et al. 1992 )  , and is often known as ` PARSEVAL ' .",1,0
+9494,"The evaluation technique that is currently the most widely-used was proposed by the Grammar Evaluation Interest Group (  ( Harrison et al. 1991 )  ; see also  ( Grishman et al. 1992 )  , and is often known as ` PARSEVAL ' .",1,0
+9495,"In particular ,  ( Carpenter and Manning 1997 )  observe that sentences in the Penn Treebank ( PTB ;  ( Marcus et al. 1993 )  ) contain relatively few brackets , so analyses are quite ` flat ' .",1,0
+9496,"In particular ,  ( Carpenter and Manning 1997 )  observe that sentences in the Penn Treebank ( PTB ;  ( Marcus et al. 1993 )  ) contain relatively few brackets , so analyses are quite ` flat ' .",1,0
+9497,"( The same goes for the other treebank of English in general use , SUSANNE ;  ( Sampson 1995 )  .",1,0
+9498,"Conversely ,  ( Lin 1995 )  demonstrates that the crossing brackets measure can in some cases penalise mis-attachments more than once ;  ( Lin 1996 )  argues that a high score for phrase boundary correctness does not guarantee that a reasonable semantic reading can be produced .",1,0
+9499,"Conversely ,  ( Lin 1995 )  demonstrates that the crossing brackets measure can in some cases penalise mis-attachments more than once ;  ( Lin 1996 )  argues that a high score for phrase boundary correctness does not guarantee that a reasonable semantic reading can be produced .",1,0
+9500,"For example , the PTB implicitly contains more than 10000 distinct context-free productions , the majority occurring only once  ( Charniak 1996 )  .",1,0
+9501,"To overcome the  ( PARSEVAL )  grammar/treebank mismatch problems outlined above ,  ( Lin 1995 )  proposes evaluation based on dependency structure , in which phrase structure analyses from parser and treebank are both automatically converted into sets of dependency relationships .",1,0
+9502,"( Atwell 1996 )  , though , argues that transforming standard constituency-based analyses into a dependency-based representation would lose certain kinds of grammatical information that might be important for subsequent processing , such as ` logical ' information ( e.g. location of traces , or moved constituents ) .",1,0
+9503,"The scheme is based on EAGLES lexicon/syntax working group standards  ( Sanfilippo et al. 1996 )  , but refined within the EU 4th Framework SPARKLE project ( see lt ; http : //www.ilc.pi.cnr.it/sparkle/wp1 - prefinalgt ; ) extending the set of relations proposed there .",1,0
+9504,The scheme is superficially similar to a syntactic dependency analysis in the style of  ( Lin 1995 )  .,1,0
+9505,( ii ) if the fronted element is left-dislocated [...] '' (  ( Bies et al. 1995 )  : 40 ) .,1,0
+9506,Inter - annotator agreement was around 95% which is somewhat better than previously reported figures for syntactic markup ( e.g.  ( Leech and Garside 1991 )  .,1,0
+9507,Genre has been found to affect the distribution of surface-level syntactic configurations  ( Sekine 1997 )  and also complement types for individual predicates  ( Roland et al. 1998 )  .,1,0
+9508,We used the IPAL dictionary  ( Agency 1987 )  as a verb case frame dictionary .,0,1
+9509,A lot of work has been done in Japanese pronoun resolution  ( Kameyama 1986 )   ( Yamamura et al. 1992 )   ( Walker et al. 1994 )   ( Takada and Doi 1994 )   ( Nakaiwa and Ikehara 1995 )  .,1,0
+9510,A lot of work has been done in Japanese pronoun resolution  ( Kameyama 1986 )   ( Yamamura et al. 1992 )   ( Walker et al. 1994 )   ( Takada and Doi 1994 )   ( Nakaiwa and Ikehara 1995 )  .,1,0
+9511,A lot of work has been done in Japanese pronoun resolution  ( Kameyama 1986 )   ( Yamamura et al. 1992 )   ( Walker et al. 1994 )   ( Takada and Doi 1994 )   ( Nakaiwa and Ikehara 1995 )  .,1,0
+9512,A lot of work has been done in Japanese pronoun resolution  ( Kameyama 1986 )   ( Yamamura et al. 1992 )   ( Walker et al. 1994 )   ( Takada and Doi 1994 )   ( Nakaiwa and Ikehara 1995 )  .,1,0
+9513,A lot of work has been done in Japanese pronoun resolution  ( Kameyama 1986 )   ( Yamamura et al. 1992 )   ( Walker et al. 1994 )   ( Takada and Doi 1994 )   ( Nakaiwa and Ikehara 1995 )  .,1,0
+9514,We made heuristic rules for demonstratives by consulting the papers  ( NLRI 1981 )   ( Hayashi 1983 )   ( Takahashi et al. 1990 )   ( Kinsui and Takubo 1992 )  and by examining Japanese sentences by hand .,0,1
+9515,We made heuristic rules for demonstratives by consulting the papers  ( NLRI 1981 )   ( Hayashi 1983 )   ( Takahashi et al. 1990 )   ( Kinsui and Takubo 1992 )  and by examining Japanese sentences by hand .,0,1
+9516,We made heuristic rules for demonstratives by consulting the papers  ( NLRI 1981 )   ( Hayashi 1983 )   ( Takahashi et al. 1990 )   ( Kinsui and Takubo 1992 )  and by examining Japanese sentences by hand .,0,1
+9517,"Since a non-so-series demonstrative adjective rarely is a daikou reference  ( NLRI 1981 )   ( Yamamura et al. 1992 )  , the number of points is footnotesizeer than in the case of the so-series .",1,0
+9518,This rule is based on empathy theory  ( Kameyama 1986 )  .,0,1

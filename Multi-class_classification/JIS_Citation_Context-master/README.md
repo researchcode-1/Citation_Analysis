@@ -1,0 +1,1 @@
+The data and code in this repository is to reproduce the resutls submitted to JIS entiteld "A Novel Focal-Loss and Class-Weight Aware Convolutional Neural Network for the Classification of In-text Citations"

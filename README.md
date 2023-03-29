@@ -1,3 +1,3 @@
 # Code and data for Citation_Analysis work
-### a copy of the data and other related files such as trained embeddings and trained models check points can be find using the link below
+a copy of the data and other related files such as trained embeddings and trained models check points can be find using the link below
 [1. data and other resources](https://www.google.com)
